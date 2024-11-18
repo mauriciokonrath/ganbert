@@ -262,7 +262,7 @@ NUM:num Mexican pesos are worth what in U.S. dollars ?
 HUM:hum Who was the first African American to play for the Brooklyn Dodgers ?
 HUM:hum Who was the first Prime Minister of Canada ?
 NUM:num How many Admirals are there in the U.S. Navy ?
-ENTY:instru What instrument did Glenn Miller play ?
+ENTY:enty What instrument did Glenn Miller play ?
 NUM:num How old was Joan of Arc when she died ?
 DESC:desc What does the word fortnight mean ?
 DESC:desc What is dianetics ?
