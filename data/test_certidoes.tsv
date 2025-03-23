@@ -1,0 +1,401 @@
+tipo	tipo_documento	nome_completo	cpf	data_nascimento	data_casamento	data_obito	causa_obito	nome_pai	nome_mae	regime_bens	local_registro	matricula
+sensivel	nascimento	Eduardo Costa 1	400.001.001-01	1980-01-01	N/A	N/A	N/A	Jorge Costa	Maria Costa	N/A	Cartório do 1º Ofício - Campinas	500001 01 01 5001 1 500001 001 01
+sensivel	nascimento	Camila Pereira 2	400.002.002-02	1981-02-02	N/A	N/A	N/A	Jorge Pereira	Maria Pereira	N/A	Cartório do 2º Ofício - Florianópolis	500002 02 02 5002 2 500002 002 02
+sensivel	nascimento	Bruno Lima 3	400.003.003-03	1982-03-03	N/A	N/A	N/A	Jorge Lima	Maria Lima	N/A	Cartório do 3º Ofício - Vitória	500003 03 03 5003 3 500003 003 03
+sensivel	nascimento	Isabela Gomes 4	400.004.004-04	1983-04-04	N/A	N/A	N/A	Jorge Gomes	Maria Gomes	N/A	Cartório do 4º Ofício - Maceió	500004 04 04 5004 4 500004 004 04
+sensivel	nascimento	Leonardo Martins 5	400.005.005-05	1984-05-05	N/A	N/A	N/A	Jorge Martins	Maria Martins	N/A	Cartório do 5º Ofício - Natal	500005 05 05 5005 5 500005 005 05
+sensivel	nascimento	Carolina Barbosa 6	400.006.006-06	1985-06-06	N/A	N/A	N/A	Jorge Barbosa	Maria Barbosa	N/A	Cartório do 1º Ofício - Campinas	500006 06 06 5006 6 500006 006 06
+sensivel	nascimento	Rodrigo Almeida 7	400.007.007-07	1986-07-07	N/A	N/A	N/A	Jorge Almeida	Maria Almeida	N/A	Cartório do 2º Ofício - Florianópolis	500007 07 07 5007 7 500007 007 07
+sensivel	nascimento	Fernanda Ribeiro 8	400.008.008-08	1987-08-08	N/A	N/A	N/A	Jorge Ribeiro	Maria Ribeiro	N/A	Cartório do 3º Ofício - Vitória	500008 08 08 5008 8 500008 008 08
+sensivel	nascimento	Gustavo Mendes 9	400.009.009-09	1988-09-09	N/A	N/A	N/A	Jorge Mendes	Maria Mendes	N/A	Cartório do 4º Ofício - Maceió	500009 09 09 5009 9 500009 009 09
+sensivel	nascimento	Leticia Faria 10	400.010.010-10	1989-10-10	N/A	N/A	N/A	Jorge Faria	Maria Faria	N/A	Cartório do 5º Ofício - Natal	500010 10 10 5010 0 500010 010 10
+sensivel	nascimento	Marcelo Nunes 11	400.011.011-11	1990-11-11	N/A	N/A	N/A	Jorge Nunes	Maria Nunes	N/A	Cartório do 1º Ofício - Campinas	500011 11 11 5011 1 500011 011 11
+sensivel	nascimento	Daniela Cardoso 12	400.012.012-12	1991-12-12	N/A	N/A	N/A	Jorge Cardoso	Maria Cardoso	N/A	Cartório do 2º Ofício - Florianópolis	500012 12 12 5012 2 500012 012 12
+sensivel	nascimento	André Pires 13	400.013.013-13	1992-01-13	N/A	N/A	N/A	Jorge Pires	Maria Pires	N/A	Cartório do 3º Ofício - Vitória	500013 13 13 5013 3 500013 013 13
+sensivel	nascimento	Juliana Duarte 14	400.014.014-14	1993-02-14	N/A	N/A	N/A	Jorge Duarte	Maria Duarte	N/A	Cartório do 4º Ofício - Maceió	500014 14 14 5014 4 500014 014 14
+sensivel	nascimento	Alexandre Franco 15	400.015.015-15	1994-03-15	N/A	N/A	N/A	Jorge Franco	Maria Franco	N/A	Cartório do 5º Ofício - Natal	500015 15 15 5015 5 500015 015 15
+sensivel	nascimento	Simone Teixeira 16	400.016.016-16	1995-04-16	N/A	N/A	N/A	Jorge Teixeira	Maria Teixeira	N/A	Cartório do 1º Ofício - Campinas	500016 16 16 5016 6 500016 016 16
+sensivel	nascimento	Fábio Cavalcanti 17	400.017.017-17	1996-05-17	N/A	N/A	N/A	Jorge Cavalcanti	Maria Cavalcanti	N/A	Cartório do 2º Ofício - Florianópolis	500017 17 17 5017 7 500017 017 17
+sensivel	nascimento	Patrícia Moura 18	400.018.018-18	1997-06-18	N/A	N/A	N/A	Jorge Moura	Maria Moura	N/A	Cartório do 3º Ofício - Vitória	500018 18 18 5018 8 500018 018 18
+sensivel	nascimento	Vitor Leal 19	400.019.019-19	1998-07-19	N/A	N/A	N/A	Jorge Leal	Maria Leal	N/A	Cartório do 4º Ofício - Maceió	500019 19 19 5019 9 500019 019 19
+sensivel	nascimento	Gabriela Rocha 20	400.020.020-20	1999-08-20	N/A	N/A	N/A	Jorge Rocha	Maria Rocha	N/A	Cartório do 5º Ofício - Natal	500020 20 20 5020 0 500020 020 20
+sensivel	nascimento	Felipe Barros 21	400.021.021-21	2000-09-21	N/A	N/A	N/A	Jorge Barros	Maria Barros	N/A	Cartório do 1º Ofício - Campinas	500021 21 21 5021 1 500021 021 21
+sensivel	nascimento	Aline Guimarães 22	400.022.022-22	2001-10-22	N/A	N/A	N/A	Jorge Guimarães	Maria Guimarães	N/A	Cartório do 2º Ofício - Florianópolis	500022 22 22 5022 2 500022 022 22
+sensivel	nascimento	Caio Freitas 23	400.023.023-23	2002-11-23	N/A	N/A	N/A	Jorge Freitas	Maria Freitas	N/A	Cartório do 3º Ofício - Vitória	500023 23 23 5023 3 500023 023 23
+sensivel	nascimento	Rafaela Correia 24	400.024.024-24	2003-12-24	N/A	N/A	N/A	Jorge Correia	Maria Correia	N/A	Cartório do 4º Ofício - Maceió	500024 24 24 5024 4 500024 024 24
+sensivel	nascimento	Marcos Araújo 25	400.025.025-25	2004-01-25	N/A	N/A	N/A	Jorge Araújo	Maria Araújo	N/A	Cartório do 5º Ofício - Natal	500025 25 25 5025 5 500025 025 25
+sensivel	nascimento	Bianca Moreira 26	400.026.026-26	2005-02-26	N/A	N/A	N/A	Jorge Moreira	Maria Moreira	N/A	Cartório do 1º Ofício - Campinas	500026 26 26 5026 6 500026 026 26
+sensivel	nascimento	Diego Castro 27	400.027.027-27	2006-03-27	N/A	N/A	N/A	Jorge Castro	Maria Castro	N/A	Cartório do 2º Ofício - Florianópolis	500027 27 27 5027 7 500027 027 27
+sensivel	nascimento	Luana Viana 28	400.028.028-28	2007-04-28	N/A	N/A	N/A	Jorge Viana	Maria Viana	N/A	Cartório do 3º Ofício - Vitória	500028 28 28 5028 8 500028 028 28
+sensivel	nascimento	Igor Peixoto 29	400.029.029-29	2008-05-29	N/A	N/A	N/A	Jorge Peixoto	Maria Peixoto	N/A	Cartório do 4º Ofício - Maceió	500029 29 29 5029 9 500029 029 29
+sensivel	nascimento	Mariana Ribeiro 30	400.030.030-30	2009-06-30	N/A	N/A	N/A	Jorge Ribeiro	Maria Ribeiro	N/A	Cartório do 5º Ofício - Natal	500030 30 30 5030 0 500030 030 30
+sensivel	nascimento	Roberto Santana 31	400.031.031-31	2010-07-31	N/A	N/A	N/A	Jorge Santana	Maria Santana	N/A	Cartório do 1º Ofício - Campinas	500031 31 31 5031 1 500031 031 31
+sensivel	nascimento	Sônia Prado 32	400.032.032-32	2011-08-01	N/A	N/A	N/A	Jorge Prado	Maria Prado	N/A	Cartório do 2º Ofício - Florianópolis	500032 32 32 5032 2 500032 032 32
+sensivel	nascimento	Thiago Fonseca 33	400.033.033-33	2012-09-02	N/A	N/A	N/A	Jorge Fonseca	Maria Fonseca	N/A	Cartório do 3º Ofício - Vitória	500033 33 33 5033 3 500033 033 33
+sensivel	nascimento	Amanda Coelho 34	400.034.034-34	2013-10-03	N/A	N/A	N/A	Jorge Coelho	Maria Coelho	N/A	Cartório do 4º Ofício - Maceió	500034 34 34 5034 4 500034 034 34
+sensivel	nascimento	Caetano Furtado 35	400.035.035-35	2014-11-04	N/A	N/A	N/A	Jorge Furtado	Maria Furtado	N/A	Cartório do 5º Ofício - Natal	500035 35 35 5035 5 500035 035 35
+sensivel	nascimento	Priscila Rezende 36	400.036.036-36	2015-12-05	N/A	N/A	N/A	Jorge Rezende	Maria Rezende	N/A	Cartório do 1º Ofício - Campinas	500036 36 36 5036 6 500036 036 36
+sensivel	nascimento	Jorge Batista 37	400.037.037-37	2016-01-06	N/A	N/A	N/A	Jorge Batista	Maria Batista	N/A	Cartório do 2º Ofício - Florianópolis	500037 37 37 5037 7 500037 037 37
+sensivel	nascimento	Elisa Moura 38	400.038.038-38	2017-02-07	N/A	N/A	N/A	Jorge Moura	Maria Moura	N/A	Cartório do 3º Ofício - Vitória	500038 38 38 5038 8 500038 038 38
+sensivel	nascimento	Marcelo Franco 39	400.039.039-39	2018-03-08	N/A	N/A	N/A	Jorge Franco	Maria Franco	N/A	Cartório do 4º Ofício - Maceió	500039 39 39 5039 9 500039 039 39
+sensivel	nascimento	Natália Leite 40	400.040.040-40	2019-04-09	N/A	N/A	N/A	Jorge Leite	Maria Leite	Comunhão Universal	Cartório do 5º Ofício - Natal	500040 40 40 5040 0 500040 040 40
+sensivel	casamento	Miguel Pereira 1	500.001.001-01	1985-05-05	2015-06-15	N/A	N/A	Antônio Pereira	Clara Pereira	Comunhão Universal	Cartório de Registro Civil - São Paulo	600001 01 01 6001 1 600001 001 01
+sensivel	casamento	Larissa Pereira 1	500.002.002-02	1987-07-07	2015-06-15	N/A	N/A	Antônio Pereira	Clara Pereira	Comunhão Parcial	Cartório de Registro Civil - São Paulo	600002 02 02 6002 2 600002 002 02
+sensivel	casamento	Rafael Silveira 2	500.003.003-03	1986-07-07	2016-09-09	N/A	N/A	Antônio Silveira	Clara Silveira	Comunhão Parcial	Cartório de Registro Civil - Rio de Janeiro	600003 03 03 6003 3 600003 003 03
+sensivel	casamento	Isabel Silveira 2	500.004.004-04	1988-08-08	2016-09-09	N/A	N/A	Antônio Silveira	Clara Silveira	Comunhão Universal	Cartório de Registro Civil - Rio de Janeiro	600004 04 04 6004 4 600004 004 04
+sensivel	casamento	Leonardo Castro 3	500.005.005-05	1987-03-03	2017-10-10	N/A	N/A	Antônio Castro	Clara Castro	Comunhão Universal	Cartório de Registro Civil - Belo Horizonte	600005 05 05 6005 5 600005 005 05
+sensivel	casamento	Carolina Castro 3	500.006.006-06	1989-04-04	2017-10-10	N/A	N/A	Antônio Castro	Clara Castro	Comunhão Parcial	Cartório de Registro Civil - Belo Horizonte	600006 06 06 6006 6 600006 006 06
+sensivel	casamento	Daniel Soares 4	500.007.007-07	1988-05-05	2018-11-11	N/A	N/A	Antônio Soares	Clara Soares	Comunhão Parcial	Cartório de Registro Civil - Porto Alegre	600007 07 07 6007 7 600007 007 07
+sensivel	casamento	Fernanda Soares 4	500.008.008-08	1990-06-06	2018-11-11	N/A	N/A	Antônio Soares	Clara Soares	Comunhão Universal	Cartório de Registro Civil - Porto Alegre	600008 08 08 6008 8 600008 008 08
+sensivel	casamento	Ricardo Costa 5	500.009.009-09	1989-07-07	2019-12-12	N/A	N/A	Antônio Costa	Clara Costa	Comunhão Universal	Cartório de Registro Civil - Curitiba	600009 09 09 6009 9 600009 009 09
+sensivel	casamento	Mariana Costa 5	500.010.010-10	1991-08-08	2019-12-12	N/A	N/A	Antônio Costa	Clara Costa	Comunhão Parcial	Cartório de Registro Civil - Curitiba	600010 10 10 6010 0 600010 010 10
+sensivel	casamento	Felipe Gomes 6	500.011.011-11	1990-09-09	2020-01-15	N/A	N/A	Antônio Gomes	Clara Gomes	Comunhão Parcial	Cartório de Registro Civil - São Paulo	600011 11 11 6011 1 600011 011 11
+sensivel	casamento	Aline Gomes 6	500.012.012-12	1992-10-10	2020-01-15	N/A	N/A	Antônio Gomes	Clara Gomes	Comunhão Universal	Cartório de Registro Civil - São Paulo	600012 12 12 6012 2 600012 012 12
+sensivel	casamento	Bruno Alves 7	500.013.013-13	1991-11-11	2021-02-20	N/A	N/A	Antônio Alves	Clara Alves	Comunhão Universal	Cartório de Registro Civil - Rio de Janeiro	600013 13 13 6013 3 600013 013 13
+sensivel	casamento	Sofia Alves 7	500.014.014-14	1993-12-12	2021-02-20	N/A	N/A	Antônio Alves	Clara Alves	Comunhão Parcial	Cartório de Registro Civil - Rio de Janeiro	600014 14 14 6014 4 600014 014 14
+sensivel	casamento	Diego Mendes 8	500.015.015-15	1992-01-13	2021-03-21	N/A	N/A	Antônio Mendes	Clara Mendes	Comunhão Parcial	Cartório de Registro Civil - Belo Horizonte	600015 15 15 6015 5 600015 015 15
+sensivel	casamento	Beatriz Mendes 8	500.016.016-16	1994-02-14	2021-03-21	N/A	N/A	Antônio Mendes	Clara Mendes	Comunhão Universal	Cartório de Registro Civil - Belo Horizonte	600016 16 16 6016 6 600016 016 16
+sensivel	casamento	Gustavo Rocha 9	500.017.017-17	1993-03-15	2021-04-22	N/A	N/A	Antônio Rocha	Clara Rocha	Comunhão Universal	Cartório de Registro Civil - Porto Alegre	600017 17 17 6017 7 600017 017 17
+sensivel	casamento	Isadora Rocha 9	500.018.018-18	1995-04-16	2021-04-22	N/A	N/A	Antônio Rocha	Clara Rocha	Comunhão Parcial	Cartório de Registro Civil - Porto Alegre	600018 18 18 6018 8 600018 018 18
+sensivel	casamento	Victor Barros 10	500.019.019-19	1994-05-17	2021-05-23	N/A	N/A	Antônio Barros	Clara Barros	Comunhão Parcial	Cartório de Registro Civil - Curitiba	600019 19 19 6019 9 600019 019 19
+sensivel	casamento	Mariana Barros 10	500.020.020-20	1996-06-18	2021-05-23	N/A	N/A	Antônio Barros	Clara Barros	Comunhão Universal	Cartório de Registro Civil - Curitiba	600020 20 20 6020 0 600020 020 20
+sensivel	casamento	Samuel Feliciano 11	500.021.021-21	1995-07-19	2021-06-24	N/A	N/A	Antônio Feliciano	Clara Feliciano	Comunhão Universal	Cartório de Registro Civil - São Paulo	600021 21 21 6021 1 600021 021 21
+sensivel	casamento	Verônica Feliciano 11	500.022.022-22	1997-08-20	2021-06-24	N/A	N/A	Antônio Feliciano	Clara Feliciano	Comunhão Parcial	Cartório de Registro Civil - São Paulo	600022 22 22 6022 2 600022 022 22
+sensivel	casamento	Pedro Carvalho 12	500.023.023-23	1996-09-21	2021-07-25	N/A	N/A	Antônio Carvalho	Clara Carvalho	Comunhão Parcial	Cartório de Registro Civil - Rio de Janeiro	600023 23 23 6023 3 600023 023 23
+sensivel	casamento	Carolina Carvalho 12	500.024.024-24	1998-10-22	2021-07-25	N/A	N/A	Antônio Carvalho	Clara Carvalho	Comunhão Universal	Cartório de Registro Civil - Rio de Janeiro	600024 24 24 6024 4 600024 024 24
+sensivel	casamento	Felipe Lima 13	500.025.025-25	1997-11-23	2021-08-26	N/A	N/A	Antônio Lima	Clara Lima	Comunhão Universal	Cartório de Registro Civil - Belo Horizonte	600025 25 25 6025 5 600025 025 25
+sensivel	casamento	Juliana Lima 13	500.026.026-26	1999-12-24	2021-08-26	N/A	N/A	Antônio Lima	Clara Lima	Comunhão Parcial	Cartório de Registro Civil - Belo Horizonte	600026 26 26 6026 6 600026 026 26
+sensivel	casamento	Rogério Ribeiro 14	500.027.027-27	1998-01-25	2021-09-27	N/A	N/A	Antônio Ribeiro	Clara Ribeiro	Comunhão Parcial	Cartório de Registro Civil - Porto Alegre	600027 27 27 6027 7 600027 027 27
+sensivel	casamento	Vanessa Ribeiro 14	500.028.028-28	2000-02-26	2021-09-27	N/A	N/A	Antônio Ribeiro	Clara Ribeiro	Comunhão Universal	Cartório de Registro Civil - Porto Alegre	600028 28 28 6028 8 600028 028 28
+sensivel	casamento	Lucas Soares 15	500.029.029-29	1999-03-27	2021-10-28	N/A	N/A	Antônio Soares	Clara Soares	Comunhão Universal	Cartório de Registro Civil - Curitiba	600029 29 29 6029 9 600029 029 29
+sensivel	casamento	Carla Soares 15	500.030.030-30	2001-04-28	2021-10-28	N/A	N/A	Antônio Soares	Clara Soares	N/A	Cartório de Registro Civil - Curitiba	600030 30 30 6030 0 600030 030 30
+sensivel	obito	Renato Ferreira 1	600.001.001-01	1940-01-01	N/A	2022-01-15	Acidente	Roberto Ferreira	Eliane Ferreira	N/A	Cartório de Registro Civil - Salvador	700001 01 01 7001 1 700001 001 01
+sensivel	obito	Sandra Ferreira 2	600.002.002-02	1941-02-02	N/A	2022-02-16	Infarto	Roberto Ferreira	Eliane Ferreira	N/A	Cartório de Registro Civil - Fortaleza	700002 02 02 7002 2 700002 002 02
+sensivel	obito	César Martins 3	600.003.003-03	1942-03-03	N/A	2022-03-17	Doença	Roberto Martins	Eliane Martins	N/A	Cartório de Registro Civil - Recife	700003 03 03 7003 3 700003 003 03
+sensivel	obito	Lorena Martins 4	600.004.004-04	1943-04-04	N/A	2022-04-18	Complicações Médicas	Roberto Martins	Eliane Martins	N/A	Cartório de Registro Civil - Brasília	700004 04 04 7004 4 700004 004 04
+sensivel	obito	Otávio Gomes 5	600.005.005-05	1944-05-05	N/A	2022-05-19	Acidente	Roberto Gomes	Eliane Gomes	N/A	Cartório de Registro Civil - Goiânia	700005 05 05 7005 5 700005 005 05
+sensivel	obito	Bruna Gomes 6	600.006.006-06	1945-06-06	N/A	2022-06-20	Infarto	Roberto Gomes	Eliane Gomes	N/A	Cartório de Registro Civil - Salvador	700006 06 06 7006 6 700006 006 06
+sensivel	obito	Victor Ribeiro 7	600.007.007-07	1946-07-07	N/A	2022-07-21	Doença	Roberto Ribeiro	Eliane Ribeiro	N/A	Cartório de Registro Civil - Fortaleza	700007 07 07 7007 7 700007 007 07
+sensivel	obito	Sabrina Ribeiro 8	600.008.008-08	1947-08-08	N/A	2022-08-22	Complicações Médicas	Roberto Ribeiro	Eliane Ribeiro	N/A	Cartório de Registro Civil - Recife	700008 08 08 7008 8 700008 008 08
+sensivel	obito	Adriano Figueiredo 9	600.009.009-09	1948-09-09	N/A	2022-09-23	Acidente	Roberto Figueiredo	Eliane Figueiredo	N/A	Cartório de Registro Civil - Brasília	700009 09 09 7009 9 700009 009 09
+sensivel	obito	Tatiana Figueiredo 10	600.010.010-10	1949-10-10	N/A	2022-10-24	Infarto	Roberto Figueiredo	Eliane Figueiredo	N/A	Cartório de Registro Civil - Goiânia	700010 10 10 7010 0 700010 010 10
+sensivel	obito	Marcos Azevedo 11	600.011.011-11	1950-11-11	N/A	2022-11-25	Doença	Roberto Azevedo	Eliane Azevedo	N/A	Cartório de Registro Civil - Salvador	700011 11 11 7011 1 700011 011 11
+sensivel	obito	Helena Azevedo 12	600.012.012-12	1951-12-12	N/A	2022-12-26	Complicações Médicas	Roberto Azevedo	Eliane Azevedo	N/A	Cartório de Registro Civil - Fortaleza	700012 12 12 7012 2 700012 012 12
+sensivel	obito	Ricardo Pacheco 13	600.013.013-13	1952-01-13	N/A	2023-01-27	Acidente	Roberto Pacheco	Eliane Pacheco	N/A	Cartório de Registro Civil - Recife	700013 13 13 7013 3 700013 013 13
+sensivel	obito	Fabiana Pacheco 14	600.014.014-14	1953-02-14	N/A	2023-02-28	Infarto	Roberto Pacheco	Eliane Pacheco	N/A	Cartório de Registro Civil - Brasília	700014 14 14 7014 4 700014 014 14
+sensivel	obito	Alexandre Moura 15	600.015.015-15	1954-03-15	N/A	2023-03-29	Doença	Roberto Moura	Eliane Moura	N/A	Cartório de Registro Civil - Goiânia	700015 15 15 7015 5 700015 015 15
+sensivel	obito	Cláudia Moura 16	600.016.016-16	1955-04-16	N/A	2023-04-30	Complicações Médicas	Roberto Moura	Eliane Moura	N/A	Cartório de Registro Civil - Salvador	700016 16 16 7016 6 700016 016 16
+sensivel	obito	Eduardo Santana 17	600.017.017-17	1956-05-17	N/A	2023-05-31	Acidente	Roberto Santana	Eliane Santana	N/A	Cartório de Registro Civil - Fortaleza	700017 17 17 7017 7 700017 017 17
+sensivel	obito	Elisa Santana 18	600.018.018-18	1957-06-18	N/A	2023-06-01	Infarto	Roberto Santana	Eliane Santana	N/A	Cartório de Registro Civil - Recife	700018 18 18 7018 8 700018 018 18
+sensivel	obito	Fábio Correia 19	600.019.019-19	1958-07-19	N/A	2023-07-02	Doença	Roberto Correia	Eliane Correia	N/A	Cartório de Registro Civil - Brasília	700019 19 19 7019 9 700019 019 19
+sensivel	obito	Mônica Correia 20	600.020.020-20	1959-08-20	N/A	2023-08-03	Complicações Médicas	Roberto Correia	Eliane Correia	N/A	Cartório de Registro Civil - Goiânia	700020 20 20 7020 0 700020 020 20
+sensivel	obito	Guilherme Braga 21	600.021.021-21	1960-09-21	N/A	2023-09-04	Acidente	Roberto Braga	Eliane Braga	N/A	Cartório de Registro Civil - Salvador	700021 21 21 7021 1 700021 021 21
+sensivel	obito	Amanda Braga 22	600.022.022-22	1961-10-22	N/A	2023-10-05	Infarto	Roberto Braga	Eliane Braga	N/A	Cartório de Registro Civil - Fortaleza	700022 22 22 7022 2 700022 022 22
+sensivel	obito	Pedro Cunha 23	600.023.023-23	1962-11-23	N/A	2023-11-06	Doença	Roberto Cunha	Eliane Cunha	N/A	Cartório de Registro Civil - Recife	700023 23 23 7023 3 700023 023 23
+sensivel	obito	Raquel Cunha 24	600.024.024-24	1963-12-24	N/A	2023-12-07	Complicações Médicas	Roberto Cunha	Eliane Cunha	N/A	Cartório de Registro Civil - Brasília	700024 24 24 7024 4 700024 024 24
+sensivel	obito	Diego Silveira 25	600.025.025-25	1964-01-25	N/A	2024-01-08	Acidente	Roberto Silveira	Eliane Silveira	N/A	Cartório de Registro Civil - Goiânia	700025 25 25 7025 5 700025 025 25
+sensivel	obito	Juliana Silveira 26	600.026.026-26	1965-02-26	N/A	2024-02-09	Infarto	Roberto Silveira	Eliane Silveira	N/A	Cartório de Registro Civil - Salvador	700026 26 26 7026 6 700026 026 26
+sensivel	obito	Leandro Prado 27	600.027.027-27	1966-03-27	N/A	2024-03-10	Doença	Roberto Prado	Eliane Prado	N/A	Cartório de Registro Civil - Fortaleza	700027 27 27 7027 7 700027 027 27
+sensivel	obito	Marina Prado 28	600.028.028-28	1967-04-28	N/A	2024-04-11	Complicações Médicas	Roberto Prado	Eliane Prado	N/A	Cartório de Registro Civil - Recife	700028 28 28 7028 8 700028 028 28
+sensivel	obito	Tiago Reis 29	600.029.029-29	1968-05-29	N/A	2024-05-12	Acidente	Roberto Reis	Eliane Reis	N/A	Cartório de Registro Civil - Brasília	700029 29 29 7029 9 700029 029 29
+sensivel	obito	Vanessa Reis 30	600.030.030-30	1969-06-30	N/A	2024-06-13	Infarto	Roberto Reis	Eliane Reis	N/A	Cartório de Registro Civil - Goiânia	700030 30 30 7030 0 700030 030 30
+sensivel	nascimento	João Silva 1	100.001.001-01	1971-02-02	N/A	N/A	N/A	José Silva 1	Maria Souza 1	N/A	Cartório do 1º Ofício - São Paulo	000001 01 01 0001 1 00001 001 01
+sensivel	nascimento	Maria Oliveira 2	100.002.002-02	1972-03-03	N/A	N/A	N/A	José Silva 2	Maria Souza 2	N/A	Cartório do 2º Ofício - Rio de Janeiro	000002 02 02 0002 2 00002 002 02
+sensivel	nascimento	Carlos Silva 3	100.003.003-03	1973-04-04	N/A	N/A	N/A	José Silva 3	Maria Souza 3	N/A	Cartório do 3º Ofício - Belo Horizonte	000003 03 03 0003 3 00003 003 03
+sensivel	nascimento	Juliana Oliveira 4	100.004.004-04	1974-05-05	N/A	N/A	N/A	José Silva 4	Maria Souza 4	N/A	Cartório do 4º Ofício - Porto Alegre	000004 04 04 0004 4 00004 004 04
+sensivel	nascimento	Pedro Silva 5	100.005.005-05	1975-06-06	N/A	N/A	N/A	José Silva 5	Maria Souza 5	N/A	Cartório do 5º Ofício - Curitiba	000005 05 05 0005 5 00005 005 05
+sensivel	nascimento	Fernanda Oliveira 6	100.006.006-06	1976-07-07	N/A	N/A	N/A	José Silva 6	Maria Souza 6	N/A	Cartório do 1º Ofício - São Paulo	000006 06 06 0006 6 00006 006 06
+sensivel	nascimento	Rafael Silva 7	100.007.007-07	1977-08-08	N/A	N/A	N/A	José Silva 7	Maria Souza 7	N/A	Cartório do 2º Ofício - Rio de Janeiro	000007 07 07 0007 7 00007 007 07
+sensivel	nascimento	Patricia Oliveira 8	100.008.008-08	1978-09-09	N/A	N/A	N/A	José Silva 8	Maria Souza 8	N/A	Cartório do 3º Ofício - Belo Horizonte	000008 08 08 0008 8 00008 008 08
+sensivel	nascimento	Marcos Silva 9	100.009.009-09	1979-10-10	N/A	N/A	N/A	José Silva 9	Maria Souza 9	N/A	Cartório do 4º Ofício - Porto Alegre	000009 09 09 0009 9 00009 009 09
+sensivel	nascimento	Ana Oliveira 10	100.010.010-10	1980-11-11	N/A	N/A	N/A	José Silva 10	Maria Souza 10	N/A	Cartório do 5º Ofício - Curitiba	000010 10 10 0010 0 00010 010 10
+sensivel	nascimento	João Silva 11	100.011.011-11	1981-12-12	N/A	N/A	N/A	José Silva 11	Maria Souza 11	N/A	Cartório do 1º Ofício - Salvador	000011 11 11 0011 1 00011 011 11
+sensivel	nascimento	Maria Oliveira 12	100.012.012-12	1982-01-13	N/A	N/A	N/A	José Silva 12	Maria Souza 12	N/A	Cartório do 2º Ofício - Fortaleza	000012 12 12 0012 2 00012 012 12
+sensivel	nascimento	Carlos Silva 13	100.013.013-13	1983-02-14	N/A	N/A	N/A	José Silva 13	Maria Souza 13	N/A	Cartório do 3º Ofício - Recife	000013 13 13 0013 3 00013 013 13
+sensivel	nascimento	Juliana Oliveira 14	100.014.014-14	1984-03-15	N/A	N/A	N/A	José Silva 14	Maria Souza 14	N/A	Cartório do 4º Ofício - Brasília	000014 14 14 0014 4 00014 014 14
+sensivel	nascimento	Pedro Silva 15	100.015.015-15	1985-04-16	N/A	N/A	N/A	José Silva 15	Maria Souza 15	N/A	Cartório do 5º Ofício - Goiânia	000015 15 15 0015 5 00015 015 15
+sensivel	nascimento	Fernanda Oliveira 16	100.016.016-16	1986-05-17	N/A	N/A	N/A	José Silva 16	Maria Souza 16	N/A	Cartório do 1º Ofício - São Paulo	000016 16 16 0016 6 00016 016 16
+sensivel	nascimento	Rafael Silva 17	100.017.017-17	1987-06-18	N/A	N/A	N/A	José Silva 17	Maria Souza 17	N/A	Cartório do 2º Ofício - Rio de Janeiro	000017 17 17 0017 7 00017 017 17
+sensivel	nascimento	Patricia Oliveira 18	100.018.018-18	1988-07-19	N/A	N/A	N/A	José Silva 18	Maria Souza 18	N/A	Cartório do 3º Ofício - Belo Horizonte	000018 18 18 0018 8 00018 018 18
+sensivel	nascimento	Marcos Silva 19	100.019.019-19	1989-08-20	N/A	N/A	N/A	José Silva 19	Maria Souza 19	N/A	Cartório do 4º Ofício - Porto Alegre	000019 19 19 0019 9 00019 019 19
+sensivel	nascimento	Ana Oliveira 20	100.020.020-20	1990-09-21	N/A	N/A	N/A	José Silva 20	Maria Souza 20	N/A	Cartório do 5º Ofício - Curitiba	000020 20 20 0020 0 00020 020 20
+sensivel	nascimento	João Silva 21	100.021.021-21	1991-10-22	N/A	N/A	N/A	José Silva 21	Maria Souza 21	N/A	Cartório do 1º Ofício - Salvador	000021 21 21 0021 1 00021 021 21
+sensivel	nascimento	Maria Oliveira 22	100.022.022-22	1992-11-23	N/A	N/A	N/A	José Silva 22	Maria Souza 22	N/A	Cartório do 2º Ofício - Fortaleza	000022 22 22 0022 2 00022 022 22
+sensivel	nascimento	Carlos Silva 23	100.023.023-23	1993-12-24	N/A	N/A	N/A	José Silva 23	Maria Souza 23	N/A	Cartório do 3º Ofício - Recife	000023 23 23 0023 3 00023 023 23
+sensivel	nascimento	Juliana Oliveira 24	100.024.024-24	1994-01-25	N/A	N/A	N/A	José Silva 24	Maria Souza 24	N/A	Cartório do 4º Ofício - Brasília	000024 24 24 0024 4 00024 024 24
+sensivel	nascimento	Pedro Silva 25	100.025.025-25	1995-02-26	N/A	N/A	N/A	José Silva 25	Maria Souza 25	N/A	Cartório do 5º Ofício - Goiânia	000025 25 25 0025 5 00025 025 25
+sensivel	nascimento	Fernanda Oliveira 26	100.026.026-26	1996-03-27	N/A	N/A	N/A	José Silva 26	Maria Souza 26	N/A	Cartório do 1º Ofício - São Paulo	000026 26 26 0026 6 00026 026 26
+sensivel	nascimento	Rafael Silva 27	100.027.027-27	1997-04-28	N/A	N/A	N/A	José Silva 27	Maria Souza 27	N/A	Cartório do 2º Ofício - Rio de Janeiro	000027 27 27 0027 7 00027 027 27
+sensivel	nascimento	Patricia Oliveira 28	100.028.028-28	1998-05-29	N/A	N/A	N/A	José Silva 28	Maria Souza 28	N/A	Cartório do 3º Ofício - Belo Horizonte	000028 28 28 0028 8 00028 028 28
+sensivel	nascimento	Marcos Silva 29	100.029.029-29	1999-06-30	N/A	N/A	N/A	José Silva 29	Maria Souza 29	N/A	Cartório do 4º Ofício - Porto Alegre	000029 29 29 0029 9 00029 029 29
+sensivel	nascimento	Ana Oliveira 30	100.030.030-30	2000-07-31	N/A	N/A	N/A	José Silva 30	Maria Souza 30	N/A	Cartório do 5º Ofício - Curitiba	000030 30 30 0030 0 00030 030 30
+sensivel	nascimento	João Silva 31	100.031.031-31	2001-09-01	N/A	N/A	N/A	José Silva 31	Maria Souza 31	N/A	Cartório do 1º Ofício - Salvador	000031 31 31 0031 1 00031 031 31
+sensivel	nascimento	Maria Oliveira 32	100.032.032-32	2002-10-02	N/A	N/A	N/A	José Silva 32	Maria Souza 32	N/A	Cartório do 2º Ofício - Fortaleza	000032 32 32 0032 2 00032 032 32
+sensivel	nascimento	Carlos Silva 33	100.033.033-33	2003-11-03	N/A	N/A	N/A	José Silva 33	Maria Souza 33	N/A	Cartório do 3º Ofício - Recife	000033 33 33 0033 3 00033 033 33
+sensivel	nascimento	Juliana Oliveira 34	100.034.034-34	2004-12-04	N/A	N/A	N/A	José Silva 34	Maria Souza 34	N/A	Cartório do 4º Ofício - Brasília	000034 34 34 0034 4 00034 034 34
+sensivel	nascimento	Pedro Silva 35	100.035.035-35	2005-01-06	N/A	N/A	N/A	José Silva 35	Maria Souza 35	N/A	Cartório do 5º Ofício - Goiânia	000035 35 35 0035 5 00035 035 35
+sensivel	nascimento	Fernanda Oliveira 36	100.036.036-36	2006-02-07	N/A	N/A	N/A	José Silva 36	Maria Souza 36	N/A	Cartório do 1º Ofício - São Paulo	000036 36 36 0036 6 00036 036 36
+sensivel	nascimento	Rafael Silva 37	100.037.037-37	2007-03-08	N/A	N/A	N/A	José Silva 37	Maria Souza 37	N/A	Cartório do 2º Ofício - Rio de Janeiro	000037 37 37 0037 7 00037 037 37
+sensivel	nascimento	Patricia Oliveira 38	100.038.038-38	2008-04-09	N/A	N/A	N/A	José Silva 38	Maria Souza 38	N/A	Cartório do 3º Ofício - Belo Horizonte	000038 38 38 0038 8 00038 038 38
+sensivel	nascimento	Marcos Silva 39	100.039.039-39	2009-05-10	N/A	N/A	N/A	José Silva 39	Maria Souza 39	N/A	Cartório do 4º Ofício - Porto Alegre	000039 39 39 0039 9 00039 039 39
+sensivel	nascimento	Ana Oliveira 40	100.040.040-40	2010-06-11	N/A	N/A	N/A	José Silva 40	Maria Souza 40	N/A	Cartório do 5º Ofício - Curitiba	000040 40 40 0040 0 00040 040 40
+sensivel	casamento	Pedro Santos 1	200.001.001-01	1976-02-02	2010-05-11	N/A	N/A	José Santos 1	Maria Santos 1	Comunhão Parcial	Cartório do 1º Ofício - São Paulo	000041 41 41 0041 1 00041 041 41
+sensivel	casamento	Mariana Santos 1	200.002.002-02	1978-02-02	2010-05-11	N/A	N/A	José Santos 1	Maria Santos 1	Comunhão Parcial	Cartório do 1º Ofício - São Paulo	000042 42 42 0042 2 00042 042 42
+sensivel	casamento	Luiz Santos 2	200.003.003-03	1977-03-03	2010-05-12	N/A	N/A	José Santos 2	Maria Santos 2	Comunhão Parcial	Cartório do 3º Ofício - Belo Horizonte	000043 43 43 0043 3 00043 043 43
+sensivel	casamento	Fernanda Santos 2	200.004.004-04	1979-03-03	2010-05-12	N/A	N/A	José Santos 2	Maria Santos 2	Comunhão Parcial	Cartório do 3º Ofício - Belo Horizonte	000044 44 44 0044 4 00044 044 44
+sensivel	casamento	Carlos Santos 3	200.005.005-05	1978-04-04	2010-05-13	N/A	N/A	José Santos 3	Maria Santos 3	Comunhão Parcial	Cartório do 5º Ofício - Curitiba	000045 45 45 0045 5 00045 045 45
+sensivel	casamento	Juliana Santos 3	200.006.006-06	1980-04-04	2010-05-13	N/A	N/A	José Santos 3	Maria Santos 3	Comunhão Parcial	Cartório do 5º Ofício - Curitiba	000046 46 46 0046 6 00046 046 46
+sensivel	casamento	André Santos 4	200.007.007-07	1979-05-05	2010-05-14	N/A	N/A	José Santos 4	Maria Santos 4	Comunhão Parcial	Cartório do 2º Ofício - Fortaleza	000047 47 47 0047 7 00047 047 47
+sensivel	casamento	Patricia Santos 4	200.008.008-08	1981-05-05	2010-05-14	N/A	N/A	José Santos 4	Maria Santos 4	Comunhão Parcial	Cartório do 2º Ofício - Fortaleza	000048 48 48 0048 8 00048 048 48
+sensivel	casamento	Rafael Santos 5	200.009.009-09	1980-06-06	2010-05-15	N/A	N/A	José Santos 5	Maria Santos 5	Comunhão Parcial	Cartório do 4º Ofício - Brasília	000049 49 49 0049 9 00049 049 49
+sensivel	casamento	Cláudia Santos 5	200.010.010-10	1982-06-06	2010-05-15	N/A	N/A	José Santos 5	Maria Santos 5	Comunhão Parcial	Cartório do 4º Ofício - Brasília	000050 50 50 0050 0 00050 050 50
+sensivel	casamento	Pedro Santos 6	200.011.011-11	1981-07-07	2010-05-16	N/A	N/A	José Santos 6	Maria Santos 6	Comunhão Parcial	Cartório do 1º Ofício - São Paulo	000051 51 51 0051 1 00051 051 51
+sensivel	casamento	Mariana Santos 6	200.012.012-12	1983-07-07	2010-05-16	N/A	N/A	José Santos 6	Maria Santos 6	Comunhão Parcial	Cartório do 1º Ofício - São Paulo	000052 52 52 0052 2 00052 052 52
+sensivel	casamento	Luiz Santos 7	200.013.013-13	1982-08-08	2010-05-17	N/A	N/A	José Santos 7	Maria Santos 7	Comunhão Parcial	Cartório do 3º Ofício - Belo Horizonte	000053 53 53 0053 3 00053 053 53
+sensivel	casamento	Fernanda Santos 7	200.014.014-14	1984-08-08	2010-05-17	N/A	N/A	José Santos 7	Maria Santos 7	Comunhão Parcial	Cartório do 3º Ofício - Belo Horizonte	000054 54 54 0054 4 00054 054 54
+sensivel	casamento	Carlos Santos 8	200.015.015-15	1983-09-09	2010-05-18	N/A	N/A	José Santos 8	Maria Santos 8	Comunhão Parcial	Cartório do 5º Ofício - Curitiba	000055 55 55 0055 5 00055 055 55
+sensivel	casamento	Juliana Santos 8	200.016.016-16	1985-09-09	2010-05-18	N/A	N/A	José Santos 8	Maria Santos 8	Comunhão Parcial	Cartório do 5º Ofício - Curitiba	000056 56 56 0056 6 00056 056 56
+sensivel	casamento	André Santos 9	200.017.017-17	1984-10-10	2010-05-19	N/A	N/A	José Santos 9	Maria Santos 9	Comunhão Parcial	Cartório do 2º Ofício - Fortaleza	000057 57 57 0057 7 00057 057 57
+sensivel	casamento	Patricia Santos 9	200.018.018-18	1986-10-10	2010-05-19	N/A	N/A	José Santos 9	Maria Santos 9	Comunhão Parcial	Cartório do 2º Ofício - Fortaleza	000058 58 58 0058 8 00058 058 58
+sensivel	casamento	Rafael Santos 10	200.019.019-19	1985-11-11	2010-05-20	N/A	N/A	José Santos 10	Maria Santos 10	Comunhão Parcial	Cartório do 4º Ofício - Brasília	000059 59 59 0059 9 00059 059 59
+sensivel	casamento	Cláudia Santos 10	200.020.020-20	1987-11-11	2010-05-20	N/A	N/A	José Santos 10	Maria Santos 10	Comunhão Parcial	Cartório do 4º Ofício - Brasília	000060 60 60 0060 0 00060 060 60
+sensivel	casamento	Pedro Santos 11	200.021.021-21	1986-12-12	2010-05-21	N/A	N/A	José Santos 11	Maria Santos 11	Comunhão Parcial	Cartório do 1º Ofício - São Paulo	000061 61 61 0061 1 00061 061 61
+sensivel	casamento	Mariana Santos 11	200.022.022-22	1988-12-12	2010-05-21	N/A	N/A	José Santos 11	Maria Santos 11	Comunhão Parcial	Cartório do 1º Ofício - São Paulo	000062 62 62 0062 2 00062 062 62
+sensivel	casamento	Luiz Santos 12	200.023.023-23	1987-01-13	2010-05-22	N/A	N/A	José Santos 12	Maria Santos 12	Comunhão Parcial	Cartório do 3º Ofício - Belo Horizonte	000063 63 63 0063 3 00063 063 63
+sensivel	casamento	Fernanda Santos 12	200.024.024-24	1989-01-13	2010-05-22	N/A	N/A	José Santos 12	Maria Santos 12	Comunhão Parcial	Cartório do 3º Ofício - Belo Horizonte	000064 64 64 0064 4 00064 064 64
+sensivel	casamento	Carlos Santos 13	200.025.025-25	1988-02-14	2010-05-23	N/A	N/A	José Santos 13	Maria Santos 13	Comunhão Parcial	Cartório do 5º Ofício - Curitiba	000065 65 65 0065 5 00065 065 65
+sensivel	casamento	Juliana Santos 13	200.026.026-26	1990-02-14	2010-05-23	N/A	N/A	José Santos 13	Maria Santos 13	Comunhão Parcial	Cartório do 5º Ofício - Curitiba	000066 66 66 0066 6 00066 066 66
+sensivel	casamento	André Santos 14	200.027.027-27	1989-03-15	2010-05-24	N/A	N/A	José Santos 14	Maria Santos 14	Comunhão Parcial	Cartório do 2º Ofício - Fortaleza	000067 67 67 0067 7 00067 067 67
+sensivel	casamento	Patricia Santos 14	200.028.028-28	1991-03-15	2010-05-24	N/A	N/A	José Santos 14	Maria Santos 14	Comunhão Parcial	Cartório do 2º Ofício - Fortaleza	000068 68 68 0068 8 00068 068 68
+sensivel	casamento	Rafael Santos 15	200.029.029-29	1990-04-16	2010-05-25	N/A	N/A	José Santos 15	Maria Santos 15	Comunhão Parcial	Cartório do 4º Ofício - Brasília	000069 69 69 0069 9 00069 069 69
+sensivel	casamento	Cláudia Santos 15	200.030.030-30	1992-04-16	2010-05-25	N/A	N/A	José Santos 15	Maria Santos 15	Comunhão Parcial	Cartório do 4º Ofício - Brasília	000070 70 70 0070 0 00070 070 70
+sensivel	obito	Carlos Obito 1	300.001.001-01	1941-02-02	N/A	2020-02-02	Parada Cardíaca	Pai de Carlos Obito 1	Mãe de Carlos Obito 1		Cartório do 1º Ofício - São Paulo	000071 71 71 0071 1 00071 071 71
+sensivel	obito	Laura Obito 2	300.002.002-02	1942-03-03	N/A	2020-03-03	Acidente	Pai de Laura Obito 2	Mãe de Laura Obito 2		Cartório do 2º Ofício - Rio de Janeiro	000072 72 72 0072 2 00072 072 72
+sensivel	obito	Eduardo Obito 3	300.003.003-03	1943-04-04	N/A	2020-04-04	Complicações Médicas	Pai de Eduardo Obito 3	Mãe de Eduardo Obito 3		Cartório do 3º Ofício - Belo Horizonte	000073 73 73 0073 3 00073 073 73
+sensivel	obito	Mariana Obito 4	300.004.004-04	1944-05-05	N/A	2020-05-05	Doença	Pai de Mariana Obito 4	Mãe de Mariana Obito 4		Cartório do 4º Ofício - Porto Alegre	000074 74 74 0074 4 00074 074 74
+sensivel	obito	Gustavo Obito 5	300.005.005-05	1945-06-06	N/A	2020-06-06	Infarto	Pai de Gustavo Obito 5	Mãe de Gustavo Obito 5		Cartório do 5º Ofício - Curitiba	000075 75 75 0075 5 00075 075 75
+sensivel	obito	Ana Obito 6	300.006.006-06	1946-07-07	N/A	2020-07-07	Parada Cardíaca	Pai de Ana Obito 6	Mãe de Ana Obito 6		Cartório do 1º Ofício - Salvador	000076 76 76 0076 6 00076 076 76
+sensivel	obito	Bruno Obito 7	300.007.007-07	1947-08-08	N/A	2020-08-08	Acidente	Pai de Bruno Obito 7	Mãe de Bruno Obito 7		Cartório do 2º Ofício - Fortaleza	000077 77 77 0077 7 00077 077 77
+sensivel	obito	Cláudia Obito 8	300.008.008-08	1948-09-09	N/A	2020-09-09	Complicações Médicas	Pai de Cláudia Obito 8	Mãe de Cláudia Obito 8		Cartório do 3º Ofício - Recife	000078 78 78 0078 8 00078 078 78
+sensivel	obito	Fábio Obito 9	300.009.009-09	1949-10-10	N/A	2020-10-10	Doença	Pai de Fábio Obito 9	Mãe de Fábio Obito 9		Cartório do 4º Ofício - Brasília	000079 79 79 0079 9 00079 079 79
+sensivel	obito	Sônia Obito 10	300.010.010-10	1950-11-11	N/A	2020-11-11	Infarto	Pai de Sônia Obito 10	Mãe de Sônia Obito 10		Cartório do 5º Ofício - Goiânia	000080 80 80 0080 0 00080 080 80
+sensivel	obito	Carlos Obito 11	300.011.011-11	1951-12-12	N/A	2020-12-12	Parada Cardíaca	Pai de Carlos Obito 11	Mãe de Carlos Obito 11		Cartório do 1º Ofício - São Paulo	000081 81 81 0081 1 00081 081 81
+sensivel	obito	Laura Obito 12	300.012.012-12	1952-01-13	N/A	2020-01-13	Acidente	Pai de Laura Obito 12	Mãe de Laura Obito 12		Cartório do 2º Ofício - Rio de Janeiro	000082 82 82 0082 2 00082 082 82
+sensivel	obito	Eduardo Obito 13	300.013.013-13	1953-02-14	N/A	2020-02-14	Complicações Médicas	Pai de Eduardo Obito 13	Mãe de Eduardo Obito 13		Cartório do 3º Ofício - Belo Horizonte	000083 83 83 0083 3 00083 083 83
+sensivel	obito	Mariana Obito 14	300.014.014-14	1954-03-15	N/A	2020-03-15	Doença	Pai de Mariana Obito 14	Mãe de Mariana Obito 14		Cartório do 4º Ofício - Porto Alegre	000084 84 84 0084 4 00084 084 84
+sensivel	obito	Gustavo Obito 15	300.015.015-15	1955-04-16	N/A	2020-04-16	Infarto	Pai de Gustavo Obito 15	Mãe de Gustavo Obito 15		Cartório do 5º Ofício - Curitiba	000085 85 85 0085 5 00085 085 85
+sensivel	obito	Ana Obito 16	300.016.016-16	1956-05-17	N/A	2020-05-17	Parada Cardíaca	Pai de Ana Obito 16	Mãe de Ana Obito 16		Cartório do 1º Ofício - Salvador	000086 86 86 0086 6 00086 086 86
+sensivel	obito	Bruno Obito 17	300.017.017-17	1957-06-18	N/A	2020-06-18	Acidente	Pai de Bruno Obito 17	Mãe de Bruno Obito 17		Cartório do 2º Ofício - Fortaleza	000087 87 87 0087 7 00087 087 87
+sensivel	obito	Cláudia Obito 18	300.018.018-18	1958-07-19	N/A	2020-07-19	Complicações Médicas	Pai de Cláudia Obito 18	Mãe de Cláudia Obito 18		Cartório do 3º Ofício - Recife	000088 88 88 0088 8 00088 088 88
+sensivel	obito	Fábio Obito 19	300.019.019-19	1959-08-20	N/A	2020-08-20	Doença	Pai de Fábio Obito 19	Mãe de Fábio Obito 19		Cartório do 4º Ofício - Brasília	000089 89 89 0089 9 00089 089 89
+sensivel	obito	Sônia Obito 20	300.020.020-20	1960-09-21	N/A	2020-09-21	Infarto	Pai de Sônia Obito 20	Mãe de Sônia Obito 20		Cartório do 5º Ofício - Goiânia	000090 90 90 0090 0 00090 090 90
+sensivel	obito	Carlos Obito 21	300.021.021-21	1961-10-22	N/A	2020-10-22	Parada Cardíaca	Pai de Carlos Obito 21	Mãe de Carlos Obito 21		Cartório do 1º Ofício - São Paulo	000091 91 91 0091 1 00091 091 91
+sensivel	obito	Laura Obito 22	300.022.022-22	1962-11-23	N/A	2020-11-23	Acidente	Pai de Laura Obito 22	Mãe de Laura Obito 22		Cartório do 2º Ofício - Rio de Janeiro	000092 92 92 0092 2 00092 092 92
+sensivel	obito	Eduardo Obito 23	300.023.023-23	1963-12-24	N/A	2020-12-24	Complicações Médicas	Pai de Eduardo Obito 23	Mãe de Eduardo Obito 23		Cartório do 3º Ofício - Belo Horizonte	000093 93 93 0093 3 00093 093 93
+sensivel	obito	Mariana Obito 24	300.024.024-24	1964-01-25	N/A	2020-01-25	Doença	Pai de Mariana Obito 24	Mãe de Mariana Obito 24		Cartório do 4º Ofício - Porto Alegre	000094 94 94 0094 4 00094 094 94
+sensivel	obito	Gustavo Obito 25	300.025.025-25	1965-02-26	N/A	2020-02-26	Infarto	Pai de Gustavo Obito 25	Mãe de Gustavo Obito 25		Cartório do 5º Ofício - Curitiba	000095 95 95 0095 5 00095 095 95
+sensivel	obito	Ana Obito 26	300.026.026-26	1966-03-27	N/A	2020-03-27	Parada Cardíaca	Pai de Ana Obito 26	Mãe de Ana Obito 26		Cartório do 1º Ofício - Salvador	000096 96 96 0096 6 00096 096 96
+sensivel	obito	Bruno Obito 27	300.027.027-27	1967-04-28	N/A	2020-04-28	Acidente	Pai de Bruno Obito 27	Mãe de Bruno Obito 27		Cartório do 2º Ofício - Fortaleza	000097 97 97 0097 7 00097 097 97
+sensivel	obito	Cláudia Obito 28	300.028.028-28	1968-05-01	N/A	2020-05-01	Complicações Médicas	Pai de Cláudia Obito 28	Mãe de Cláudia Obito 28		Cartório do 3º Ofício - Recife	000098 98 98 0098 8 00098 098 98
+sensivel	obito	Fábio Obito 29	300.029.029-29	1969-06-02	N/A	2020-06-02	Doença	Pai de Fábio Obito 29	Mãe de Fábio Obito 29		Cartório do 4º Ofício - Brasília	000099 99 99 0099 9 00099 099 99
+sensivel	obito	Sônia Obito 30	300.030.030-30	1970-07-03	N/A	2020-07-03	Infarto	Pai de Sônia Obito 30	Mãe de Sônia Obito 30		Cartório do 5º Ofício - Goiânia	000100 100 100 0100 0 00100 100 100
+nao_sensivel	nascimento	Nome Genérico Nascimento 1	000.000.000-00	1990-01-01	N/A	N/A	N/A	Nome Pai Nascimento 1	Nome Mãe Nascimento 1	N/A	Cartório Genérico Nascimento	NGN-0001
+nao_sensivel	nascimento	Nome Genérico Nascimento 2	000.000.000-00	1991-02-02	N/A	N/A	N/A	Nome Pai Nascimento 2	Nome Mãe Nascimento 2	N/A	Cartório Genérico Nascimento	NGN-0002
+nao_sensivel	nascimento	Nome Genérico Nascimento 3	000.000.000-00	1992-03-03	N/A	N/A	N/A	Nome Pai Nascimento 3	Nome Mãe Nascimento 3	N/A	Cartório Genérico Nascimento	NGN-0003
+nao_sensivel	nascimento	Nome Genérico Nascimento 4	000.000.000-00	1993-04-04	N/A	N/A	N/A	Nome Pai Nascimento 4	Nome Mãe Nascimento 4	N/A	Cartório Genérico Nascimento	NGN-0004
+nao_sensivel	nascimento	Nome Genérico Nascimento 5	000.000.000-00	1994-05-05	N/A	N/A	N/A	Nome Pai Nascimento 5	Nome Mãe Nascimento 5	N/A	Cartório Genérico Nascimento	NGN-0005
+nao_sensivel	nascimento	Nome Genérico Nascimento 6	000.000.000-00	1995-06-06	N/A	N/A	N/A	Nome Pai Nascimento 6	Nome Mãe Nascimento 6	N/A	Cartório Genérico Nascimento	NGN-0006
+nao_sensivel	nascimento	Nome Genérico Nascimento 7	000.000.000-00	1996-07-07	N/A	N/A	N/A	Nome Pai Nascimento 7	Nome Mãe Nascimento 7	N/A	Cartório Genérico Nascimento	NGN-0007
+nao_sensivel	nascimento	Nome Genérico Nascimento 8	000.000.000-00	1997-08-08	N/A	N/A	N/A	Nome Pai Nascimento 8	Nome Mãe Nascimento 8	N/A	Cartório Genérico Nascimento	NGN-0008
+nao_sensivel	nascimento	Nome Genérico Nascimento 9	000.000.000-00	1998-09-09	N/A	N/A	N/A	Nome Pai Nascimento 9	Nome Mãe Nascimento 9	N/A	Cartório Genérico Nascimento	NGN-0009
+nao_sensivel	nascimento	Nome Genérico Nascimento 10	000.000.000-00	1999-10-10	N/A	N/A	N/A	Nome Pai Nascimento 10	Nome Mãe Nascimento 10	N/A	Cartório Genérico Nascimento	NGN-0010
+nao_sensivel	nascimento	Nome Genérico Nascimento 11	000.000.000-00	2000-11-11	N/A	N/A	N/A	Nome Pai Nascimento 11	Nome Mãe Nascimento 11	N/A	Cartório Genérico Nascimento	NGN-0011
+nao_sensivel	nascimento	Nome Genérico Nascimento 12	000.000.000-00	2001-12-12	N/A	N/A	N/A	Nome Pai Nascimento 12	Nome Mãe Nascimento 12	N/A	Cartório Genérico Nascimento	NGN-0012
+nao_sensivel	nascimento	Nome Genérico Nascimento 13	000.000.000-00	2002-01-13	N/A	N/A	N/A	Nome Pai Nascimento 13	Nome Mãe Nascimento 13	N/A	Cartório Genérico Nascimento	NGN-0013
+nao_sensivel	nascimento	Nome Genérico Nascimento 14	000.000.000-00	2003-02-14	N/A	N/A	N/A	Nome Pai Nascimento 14	Nome Mãe Nascimento 14	N/A	Cartório Genérico Nascimento	NGN-0014
+nao_sensivel	nascimento	Nome Genérico Nascimento 15	000.000.000-00	2004-03-15	N/A	N/A	N/A	Nome Pai Nascimento 15	Nome Mãe Nascimento 15	N/A	Cartório Genérico Nascimento	NGN-0015
+nao_sensivel	nascimento	Nome Genérico Nascimento 16	000.000.000-00	2005-04-16	N/A	N/A	N/A	Nome Pai Nascimento 16	Nome Mãe Nascimento 16	N/A	Cartório Genérico Nascimento	NGN-0016
+nao_sensivel	nascimento	Nome Genérico Nascimento 17	000.000.000-00	2006-05-17	N/A	N/A	N/A	Nome Pai Nascimento 17	Nome Mãe Nascimento 17	N/A	Cartório Genérico Nascimento	NGN-0017
+nao_sensivel	nascimento	Nome Genérico Nascimento 18	000.000.000-00	2007-06-18	N/A	N/A	N/A	Nome Pai Nascimento 18	Nome Mãe Nascimento 18	N/A	Cartório Genérico Nascimento	NGN-0018
+nao_sensivel	nascimento	Nome Genérico Nascimento 19	000.000.000-00	2008-07-19	N/A	N/A	N/A	Nome Pai Nascimento 19	Nome Mãe Nascimento 19	N/A	Cartório Genérico Nascimento	NGN-0019
+nao_sensivel	nascimento	Nome Genérico Nascimento 20	000.000.000-00	2009-08-20	N/A	N/A	N/A	Nome Pai Nascimento 20	Nome Mãe Nascimento 20	N/A	Cartório Genérico Nascimento	NGN-0020
+nao_sensivel	casamento	Nome Genérico Casamento 1A	000.000.000-00	1980-05-05	2020-07-07	N/A	N/A	Nome Pai Casamento 1	Nome Mãe Casamento 1	Comunhão Parcial	Cartório Genérico Casamento	NGC-0001
+nao_sensivel	casamento	Nome Genérico Casamento 1B	000.000.000-00	1981-06-06	2020-07-07	N/A	N/A	Nome Pai Casamento 1	Nome Mãe Casamento 1	Comunhão Parcial	Cartório Genérico Casamento	NGC-0002
+nao_sensivel	casamento	Nome Genérico Casamento 2A	000.000.000-00	1982-07-07	2020-08-08	N/A	N/A	Nome Pai Casamento 2	Nome Mãe Casamento 2	Comunhão Parcial	Cartório Genérico Casamento	NGC-0003
+nao_sensivel	casamento	Nome Genérico Casamento 2B	000.000.000-00	1983-08-08	2020-08-08	N/A	N/A	Nome Pai Casamento 2	Nome Mãe Casamento 2	Comunhão Parcial	Cartório Genérico Casamento	NGC-0004
+nao_sensivel	casamento	Nome Genérico Casamento 3A	000.000.000-00	1984-09-09	2020-09-09	N/A	N/A	Nome Pai Casamento 3	Nome Mãe Casamento 3	Comunhão Parcial	Cartório Genérico Casamento	NGC-0005
+nao_sensivel	casamento	Nome Genérico Casamento 3B	000.000.000-00	1985-10-10	2020-09-09	N/A	N/A	Nome Pai Casamento 3	Nome Mãe Casamento 3	Comunhão Parcial	Cartório Genérico Casamento	NGC-0006
+nao_sensivel	casamento	Nome Genérico Casamento 4A	000.000.000-00	1986-11-11	2020-10-10	N/A	N/A	Nome Pai Casamento 4	Nome Mãe Casamento 4	Comunhão Parcial	Cartório Genérico Casamento	NGC-0007
+nao_sensivel	casamento	Nome Genérico Casamento 4B	000.000.000-00	1987-12-12	2020-10-10	N/A	N/A	Nome Pai Casamento 4	Nome Mãe Casamento 4	Comunhão Parcial	Cartório Genérico Casamento	NGC-0008
+nao_sensivel	casamento	Nome Genérico Casamento 5A	000.000.000-00	1988-01-13	2020-11-11	N/A	N/A	Nome Pai Casamento 5	Nome Mãe Casamento 5	Comunhão Parcial	Cartório Genérico Casamento	NGC-0009
+nao_sensivel	casamento	Nome Genérico Casamento 5B	000.000.000-00	1989-02-14	2020-11-11	N/A	N/A	Nome Pai Casamento 5	Nome Mãe Casamento 5	Comunhão Parcial	Cartório Genérico Casamento	NGC-0010
+nao_sensivel	casamento	Nome Genérico Casamento 6A	000.000.000-00	1990-03-15	2020-12-12	N/A	N/A	Nome Pai Casamento 6	Nome Mãe Casamento 6	Comunhão Parcial	Cartório Genérico Casamento	NGC-0011
+nao_sensivel	casamento	Nome Genérico Casamento 6B	000.000.000-00	1991-04-16	2020-12-12	N/A	N/A	Nome Pai Casamento 6	Nome Mãe Casamento 6	Comunhão Parcial	Cartório Genérico Casamento	NGC-0012
+nao_sensivel	casamento	Nome Genérico Casamento 7A	000.000.000-00	1992-05-17	2021-01-13	N/A	N/A	Nome Pai Casamento 7	Nome Mãe Casamento 7	Comunhão Parcial	Cartório Genérico Casamento	NGC-0013
+nao_sensivel	casamento	Nome Genérico Casamento 7B	000.000.000-00	1993-06-18	2021-01-13	N/A	N/A	Nome Pai Casamento 7	Nome Mãe Casamento 7	Comunhão Parcial	Cartório Genérico Casamento	NGC-0014
+nao_sensivel	casamento	Nome Genérico Casamento 8A	000.000.000-00	1994-07-19	2021-02-14	N/A	N/A	Nome Pai Casamento 8	Nome Mãe Casamento 8	Comunhão Parcial	Cartório Genérico Casamento	NGC-0015
+nao_sensivel	casamento	Nome Genérico Casamento 8B	000.000.000-00	1995-08-20	2021-02-14	N/A	N/A	Nome Pai Casamento 8	Nome Mãe Casamento 8	Comunhão Parcial	Cartório Genérico Casamento	NGC-0016
+nao_sensivel	obito	Nome Genérico Óbito 1	000.000.000-00	1960-01-01	N/A	2020-01-01	Causa Genérica	Nome Pai Óbito 1	Nome Mãe Óbito 1	N/A	Cartório Genérico Óbito	NGO-0001
+nao_sensivel	obito	Nome Genérico Óbito 2	000.000.000-00	1961-02-02	N/A	2020-02-02	Causa Genérica	Nome Pai Óbito 2	Nome Mãe Óbito 2	N/A	Cartório Genérico Óbito	NGO-0002
+nao_sensivel	obito	Nome Genérico Óbito 3	000.000.000-00	1962-03-03	N/A	2020-03-03	Causa Genérica	Nome Pai Óbito 3	Nome Mãe Óbito 3	N/A	Cartório Genérico Óbito	NGO-0003
+nao_sensivel	obito	Nome Genérico Óbito 4	000.000.000-00	1963-04-04	N/A	2020-04-04	Causa Genérica	Nome Pai Óbito 4	Nome Mãe Óbito 4	N/A	Cartório Genérico Óbito	NGO-0004
+nao_sensivel	obito	Nome Genérico Óbito 5	000.000.000-00	1964-05-05	N/A	2020-05-05	Causa Genérica	Nome Pai Óbito 5	Nome Mãe Óbito 5	N/A	Cartório Genérico Óbito	NGO-0005
+nao_sensivel	obito	Nome Genérico Óbito 6	000.000.000-00	1965-06-06	N/A	2020-06-06	Causa Genérica	Nome Pai Óbito 6	Nome Mãe Óbito 6	N/A	Cartório Genérico Óbito	NGO-0006
+nao_sensivel	obito	Nome Genérico Óbito 7	000.000.000-00	1966-07-07	N/A	2020-07-07	Causa Genérica	Nome Pai Óbito 7	Nome Mãe Óbito 7	N/A	Cartório Genérico Óbito	NGO-0007
+nao_sensivel	obito	Nome Genérico Óbito 8	000.000.000-00	1967-08-08	N/A	2020-08-08	Causa Genérica	Nome Pai Óbito 8	Nome Mãe Óbito 8	N/A	Cartório Genérico Óbito	NGO-0008
+nao_sensivel	obito	Nome Genérico Óbito 9	000.000.000-00	1968-09-09	N/A	2020-09-09	Causa Genérica	Nome Pai Óbito 9	Nome Mãe Óbito 9	N/A	Cartório Genérico Óbito	NGO-0009
+nao_sensivel	obito	Nome Genérico Óbito 10	000.000.000-00	1969-10-10	N/A	2020-10-10	Causa Genérica	Nome Pai Óbito 10	Nome Mãe Óbito 10	N/A	Cartório Genérico Óbito	NGO-0010
+nao_sensivel	obito	Nome Genérico Óbito 11	000.000.000-00	1970-11-11	N/A	2020-11-11	Causa Genérica	Nome Pai Óbito 11	Nome Mãe Óbito 11	N/A	Cartório Genérico Óbito	NGO-0011
+nao_sensivel	obito	Nome Genérico Óbito 12	000.000.000-00	1971-12-12	N/A	2020-12-12	Causa Genérica	Nome Pai Óbito 12	Nome Mãe Óbito 12	N/A	Cartório Genérico Óbito	NGO-0012
+nao_sensivel	obito	Nome Genérico Óbito 13	000.000.000-00	1972-01-13	N/A	2021-01-13	Causa Genérica	Nome Pai Óbito 13	Nome Mãe Óbito 13	N/A	Cartório Genérico Óbito	NGO-0013
+nao_sensivel	obito	Nome Genérico Óbito 14	000.000.000-00	1973-02-14	N/A	2021-02-14	Causa Genérica	Nome Pai Óbito 14	Nome Mãe Óbito 14	N/A	Cartório Genérico Óbito	NGO-0014
+nao_sensivel	nascimento	Nome Genérico Nascimento 1	000.000.000-00	1990-01-01	N/A	N/A	N/A	Nome Pai Nascimento 1	Nome Mãe Nascimento 1	N/A	Cartório Genérico Nascimento	NGN-0001
+nao_sensivel	nascimento	Nome Genérico Nascimento 2	000.000.000-00	1990-02-02	N/A	N/A	N/A	Nome Pai Nascimento 2	Nome Mãe Nascimento 2	N/A	Cartório Genérico Nascimento	NGN-0002
+nao_sensivel	nascimento	Nome Genérico Nascimento 3	000.000.000-00	1990-03-03	N/A	N/A	N/A	Nome Pai Nascimento 3	Nome Mãe Nascimento 3	N/A	Cartório Genérico Nascimento	NGN-0003
+nao_sensivel	nascimento	Nome Genérico Nascimento 4	000.000.000-00	1990-04-04	N/A	N/A	N/A	Nome Pai Nascimento 4	Nome Mãe Nascimento 4	N/A	Cartório Genérico Nascimento	NGN-0004
+nao_sensivel	nascimento	Nome Genérico Nascimento 5	000.000.000-00	1990-05-05	N/A	N/A	N/A	Nome Pai Nascimento 5	Nome Mãe Nascimento 5	N/A	Cartório Genérico Nascimento	NGN-0005
+nao_sensivel	nascimento	Nome Genérico Nascimento 6	000.000.000-00	1990-06-06	N/A	N/A	N/A	Nome Pai Nascimento 6	Nome Mãe Nascimento 6	N/A	Cartório Genérico Nascimento	NGN-0006
+nao_sensivel	nascimento	Nome Genérico Nascimento 7	000.000.000-00	1990-07-07	N/A	N/A	N/A	Nome Pai Nascimento 7	Nome Mãe Nascimento 7	N/A	Cartório Genérico Nascimento	NGN-0007
+nao_sensivel	nascimento	Nome Genérico Nascimento 8	000.000.000-00	1990-08-08	N/A	N/A	N/A	Nome Pai Nascimento 8	Nome Mãe Nascimento 8	N/A	Cartório Genérico Nascimento	NGN-0008
+nao_sensivel	nascimento	Nome Genérico Nascimento 9	000.000.000-00	1990-09-09	N/A	N/A	N/A	Nome Pai Nascimento 9	Nome Mãe Nascimento 9	N/A	Cartório Genérico Nascimento	NGN-0009
+nao_sensivel	nascimento	Nome Genérico Nascimento 10	000.000.000-00	1990-10-10	N/A	N/A	N/A	Nome Pai Nascimento 10	Nome Mãe Nascimento 10	N/A	Cartório Genérico Nascimento	NGN-0010
+nao_sensivel	nascimento	Nome Genérico Nascimento 11	000.000.000-00	1990-11-11	N/A	N/A	N/A	Nome Pai Nascimento 11	Nome Mãe Nascimento 11	N/A	Cartório Genérico Nascimento	NGN-0011
+nao_sensivel	nascimento	Nome Genérico Nascimento 12	000.000.000-00	1990-12-12	N/A	N/A	N/A	Nome Pai Nascimento 12	Nome Mãe Nascimento 12	N/A	Cartório Genérico Nascimento	NGN-0012
+nao_sensivel	nascimento	Nome Genérico Nascimento 13	000.000.000-00	1991-01-13	N/A	N/A	N/A	Nome Pai Nascimento 13	Nome Mãe Nascimento 13	N/A	Cartório Genérico Nascimento	NGN-0013
+nao_sensivel	nascimento	Nome Genérico Nascimento 14	000.000.000-00	1991-02-14	N/A	N/A	N/A	Nome Pai Nascimento 14	Nome Mãe Nascimento 14	N/A	Cartório Genérico Nascimento	NGN-0014
+nao_sensivel	nascimento	Nome Genérico Nascimento 15	000.000.000-00	1991-03-15	N/A	N/A	N/A	Nome Pai Nascimento 15	Nome Mãe Nascimento 15	N/A	Cartório Genérico Nascimento	NGN-0015
+nao_sensivel	nascimento	Nome Genérico Nascimento 16	000.000.000-00	1991-04-16	N/A	N/A	N/A	Nome Pai Nascimento 16	Nome Mãe Nascimento 16	N/A	Cartório Genérico Nascimento	NGN-0016
+nao_sensivel	nascimento	Nome Genérico Nascimento 17	000.000.000-00	1991-05-17	N/A	N/A	N/A	Nome Pai Nascimento 17	Nome Mãe Nascimento 17	N/A	Cartório Genérico Nascimento	NGN-0017
+nao_sensivel	nascimento	Nome Genérico Nascimento 18	000.000.000-00	1991-06-18	N/A	N/A	N/A	Nome Pai Nascimento 18	Nome Mãe Nascimento 18	N/A	Cartório Genérico Nascimento	NGN-0018
+nao_sensivel	nascimento	Nome Genérico Nascimento 19	000.000.000-00	1991-07-19	N/A	N/A	N/A	Nome Pai Nascimento 19	Nome Mãe Nascimento 19	N/A	Cartório Genérico Nascimento	NGN-0019
+nao_sensivel	nascimento	Nome Genérico Nascimento 20	000.000.000-00	1991-08-20	N/A	N/A	N/A	Nome Pai Nascimento 20	Nome Mãe Nascimento 20	N/A	Cartório Genérico Nascimento	NGN-0020
+nao_sensivel	nascimento	Nome Genérico Nascimento 21	000.000.000-00	1991-09-21	N/A	N/A	N/A	Nome Pai Nascimento 21	Nome Mãe Nascimento 21	N/A	Cartório Genérico Nascimento	NGN-0021
+nao_sensivel	nascimento	Nome Genérico Nascimento 22	000.000.000-00	1991-10-22	N/A	N/A	N/A	Nome Pai Nascimento 22	Nome Mãe Nascimento 22	N/A	Cartório Genérico Nascimento	NGN-0022
+nao_sensivel	nascimento	Nome Genérico Nascimento 23	000.000.000-00	1991-11-23	N/A	N/A	N/A	Nome Pai Nascimento 23	Nome Mãe Nascimento 23	N/A	Cartório Genérico Nascimento	NGN-0023
+nao_sensivel	nascimento	Nome Genérico Nascimento 24	000.000.000-00	1991-12-24	N/A	N/A	N/A	Nome Pai Nascimento 24	Nome Mãe Nascimento 24	N/A	Cartório Genérico Nascimento	NGN-0024
+nao_sensivel	nascimento	Nome Genérico Nascimento 25	000.000.000-00	1992-01-25	N/A	N/A	N/A	Nome Pai Nascimento 25	Nome Mãe Nascimento 25	N/A	Cartório Genérico Nascimento	NGN-0025
+nao_sensivel	nascimento	Nome Genérico Nascimento 26	000.000.000-00	1992-02-26	N/A	N/A	N/A	Nome Pai Nascimento 26	Nome Mãe Nascimento 26	N/A	Cartório Genérico Nascimento	NGN-0026
+nao_sensivel	nascimento	Nome Genérico Nascimento 27	000.000.000-00	1992-03-27	N/A	N/A	N/A	Nome Pai Nascimento 27	Nome Mãe Nascimento 27	N/A	Cartório Genérico Nascimento	NGN-0027
+nao_sensivel	nascimento	Nome Genérico Nascimento 28	000.000.000-00	1992-04-28	N/A	N/A	N/A	Nome Pai Nascimento 28	Nome Mãe Nascimento 28	N/A	Cartório Genérico Nascimento	NGN-0028
+nao_sensivel	nascimento	Nome Genérico Nascimento 29	000.000.000-00	1992-05-29	N/A	N/A	N/A	Nome Pai Nascimento 29	Nome Mãe Nascimento 29	N/A	Cartório Genérico Nascimento	NGN-0029
+nao_sensivel	nascimento	Nome Genérico Nascimento 30	000.000.000-00	1992-06-02	N/A	N/A	N/A	Nome Pai Nascimento 30	Nome Mãe Nascimento 30	N/A	Cartório Genérico Nascimento	NGN-0030
+nao_sensivel	nascimento	Nome Genérico Nascimento 31	000.000.000-00	1992-07-03	N/A	N/A	N/A	Nome Pai Nascimento 31	Nome Mãe Nascimento 31	N/A	Cartório Genérico Nascimento	NGN-0031
+nao_sensivel	nascimento	Nome Genérico Nascimento 32	000.000.000-00	1992-08-04	N/A	N/A	N/A	Nome Pai Nascimento 32	Nome Mãe Nascimento 32	N/A	Cartório Genérico Nascimento	NGN-0032
+nao_sensivel	nascimento	Nome Genérico Nascimento 33	000.000.000-00	1992-09-05	N/A	N/A	N/A	Nome Pai Nascimento 33	Nome Mãe Nascimento 33	N/A	Cartório Genérico Nascimento	NGN-0033
+nao_sensivel	nascimento	Nome Genérico Nascimento 34	000.000.000-00	1992-10-06	N/A	N/A	N/A	Nome Pai Nascimento 34	Nome Mãe Nascimento 34	N/A	Cartório Genérico Nascimento	NGN-0034
+nao_sensivel	nascimento	Nome Genérico Nascimento 35	000.000.000-00	1992-11-07	N/A	N/A	N/A	Nome Pai Nascimento 35	Nome Mãe Nascimento 35	N/A	Cartório Genérico Nascimento	NGN-0035
+nao_sensivel	nascimento	Nome Genérico Nascimento 36	000.000.000-00	1992-12-08	N/A	N/A	N/A	Nome Pai Nascimento 36	Nome Mãe Nascimento 36	N/A	Cartório Genérico Nascimento	NGN-0036
+nao_sensivel	nascimento	Nome Genérico Nascimento 37	000.000.000-00	1993-01-09	N/A	N/A	N/A	Nome Pai Nascimento 37	Nome Mãe Nascimento 37	N/A	Cartório Genérico Nascimento	NGN-0037
+nao_sensivel	nascimento	Nome Genérico Nascimento 38	000.000.000-00	1993-02-10	N/A	N/A	N/A	Nome Pai Nascimento 38	Nome Mãe Nascimento 38	N/A	Cartório Genérico Nascimento	NGN-0038
+nao_sensivel	nascimento	Nome Genérico Nascimento 39	000.000.000-00	1993-03-11	N/A	N/A	N/A	Nome Pai Nascimento 39	Nome Mãe Nascimento 39	N/A	Cartório Genérico Nascimento	NGN-0039
+nao_sensivel	nascimento	Nome Genérico Nascimento 40	000.000.000-00	1993-04-12	N/A	N/A	N/A	Nome Pai Nascimento 40	Nome Mãe Nascimento 40	N/A	Cartório Genérico Nascimento	NGN-0040
+nao_sensivel	nascimento	Nome Genérico Nascimento 41	000.000.000-00	1993-05-13	N/A	N/A	N/A	Nome Pai Nascimento 41	Nome Mãe Nascimento 41	N/A	Cartório Genérico Nascimento	NGN-0041
+nao_sensivel	nascimento	Nome Genérico Nascimento 42	000.000.000-00	1993-06-14	N/A	N/A	N/A	Nome Pai Nascimento 42	Nome Mãe Nascimento 42	N/A	Cartório Genérico Nascimento	NGN-0042
+nao_sensivel	nascimento	Nome Genérico Nascimento 43	000.000.000-00	1993-07-15	N/A	N/A	N/A	Nome Pai Nascimento 43	Nome Mãe Nascimento 43	N/A	Cartório Genérico Nascimento	NGN-0043
+nao_sensivel	nascimento	Nome Genérico Nascimento 44	000.000.000-00	1993-08-16	N/A	N/A	N/A	Nome Pai Nascimento 44	Nome Mãe Nascimento 44	N/A	Cartório Genérico Nascimento	NGN-0044
+nao_sensivel	nascimento	Nome Genérico Nascimento 45	000.000.000-00	1993-09-17	N/A	N/A	N/A	Nome Pai Nascimento 45	Nome Mãe Nascimento 45	N/A	Cartório Genérico Nascimento	NGN-0045
+nao_sensivel	nascimento	Nome Genérico Nascimento 46	000.000.000-00	1993-10-18	N/A	N/A	N/A	Nome Pai Nascimento 46	Nome Mãe Nascimento 46	N/A	Cartório Genérico Nascimento	NGN-0046
+nao_sensivel	nascimento	Nome Genérico Nascimento 47	000.000.000-00	1993-11-19	N/A	N/A	N/A	Nome Pai Nascimento 47	Nome Mãe Nascimento 47	N/A	Cartório Genérico Nascimento	NGN-0047
+nao_sensivel	nascimento	Nome Genérico Nascimento 48	000.000.000-00	1993-12-20	N/A	N/A	N/A	Nome Pai Nascimento 48	Nome Mãe Nascimento 48	N/A	Cartório Genérico Nascimento	NGN-0048
+nao_sensivel	nascimento	Nome Genérico Nascimento 49	000.000.000-00	1994-01-21	N/A	N/A	N/A	Nome Pai Nascimento 49	Nome Mãe Nascimento 49	N/A	Cartório Genérico Nascimento	NGN-0049
+nao_sensivel	nascimento	Nome Genérico Nascimento 50	000.000.000-00	1994-02-22	N/A	N/A	N/A	Nome Pai Nascimento 50	Nome Mãe Nascimento 50	N/A	Cartório Genérico Nascimento	NGN-0050
+nao_sensivel	casamento	Nome Genérico Casamento 1A	000.000.000-00	1980-01-01	2020-01-01	N/A	N/A	Nome Pai Casamento 1	Nome Mãe Casamento 1	Comunhão Parcial	Cartório Genérico Casamento	NGC-0001
+nao_sensivel	casamento	Nome Genérico Casamento 1B	000.000.000-00	1980-01-02	2020-01-01	N/A	N/A	Nome Pai Casamento 1	Nome Mãe Casamento 1	Comunhão Parcial	Cartório Genérico Casamento	NGC-0002
+nao_sensivel	casamento	Nome Genérico Casamento 2A	000.000.000-00	1980-02-02	2020-02-02	N/A	N/A	Nome Pai Casamento 2	Nome Mãe Casamento 2	Comunhão Parcial	Cartório Genérico Casamento	NGC-0003
+nao_sensivel	casamento	Nome Genérico Casamento 2B	000.000.000-00	1980-02-03	2020-02-02	N/A	N/A	Nome Pai Casamento 2	Nome Mãe Casamento 2	Comunhão Parcial	Cartório Genérico Casamento	NGC-0004
+nao_sensivel	casamento	Nome Genérico Casamento 3A	000.000.000-00	1980-03-03	2020-03-03	N/A	N/A	Nome Pai Casamento 3	Nome Mãe Casamento 3	Comunhão Parcial	Cartório Genérico Casamento	NGC-0005
+nao_sensivel	casamento	Nome Genérico Casamento 3B	000.000.000-00	1980-03-04	2020-03-03	N/A	N/A	Nome Pai Casamento 3	Nome Mãe Casamento 3	Comunhão Parcial	Cartório Genérico Casamento	NGC-0006
+nao_sensivel	casamento	Nome Genérico Casamento 4A	000.000.000-00	1980-04-04	2020-04-04	N/A	N/A	Nome Pai Casamento 4	Nome Mãe Casamento 4	Comunhão Parcial	Cartório Genérico Casamento	NGC-0007
+nao_sensivel	casamento	Nome Genérico Casamento 4B	000.000.000-00	1980-04-05	2020-04-04	N/A	N/A	Nome Pai Casamento 4	Nome Mãe Casamento 4	Comunhão Parcial	Cartório Genérico Casamento	NGC-0008
+nao_sensivel	casamento	Nome Genérico Casamento 5A	000.000.000-00	1980-05-05	2020-05-05	N/A	N/A	Nome Pai Casamento 5	Nome Mãe Casamento 5	Comunhão Parcial	Cartório Genérico Casamento	NGC-0009
+nao_sensivel	casamento	Nome Genérico Casamento 5B	000.000.000-00	1980-05-06	2020-05-05	N/A	N/A	Nome Pai Casamento 5	Nome Mãe Casamento 5	Comunhão Parcial	Cartório Genérico Casamento	NGC-0010
+nao_sensivel	casamento	Nome Genérico Casamento 6A	000.000.000-00	1980-06-06	2020-06-06	N/A	N/A	Nome Pai Casamento 6	Nome Mãe Casamento 6	Comunhão Parcial	Cartório Genérico Casamento	NGC-0011
+nao_sensivel	casamento	Nome Genérico Casamento 6B	000.000.000-00	1980-06-07	2020-06-06	N/A	N/A	Nome Pai Casamento 6	Nome Mãe Casamento 6	Comunhão Parcial	Cartório Genérico Casamento	NGC-0012
+nao_sensivel	casamento	Nome Genérico Casamento 7A	000.000.000-00	1980-07-07	2020-07-07	N/A	N/A	Nome Pai Casamento 7	Nome Mãe Casamento 7	Comunhão Parcial	Cartório Genérico Casamento	NGC-0013
+nao_sensivel	casamento	Nome Genérico Casamento 7B	000.000.000-00	1980-07-08	2020-07-07	N/A	N/A	Nome Pai Casamento 7	Nome Mãe Casamento 7	Comunhão Parcial	Cartório Genérico Casamento	NGC-0014
+nao_sensivel	casamento	Nome Genérico Casamento 8A	000.000.000-00	1980-08-08	2020-08-08	N/A	N/A	Nome Pai Casamento 8	Nome Mãe Casamento 8	Comunhão Parcial	Cartório Genérico Casamento	NGC-0015
+nao_sensivel	casamento	Nome Genérico Casamento 8B	000.000.000-00	1980-08-09	2020-08-08	N/A	N/A	Nome Pai Casamento 8	Nome Mãe Casamento 8	Comunhão Parcial	Cartório Genérico Casamento	NGC-0016
+nao_sensivel	casamento	Nome Genérico Casamento 9A	000.000.000-00	1980-09-09	2020-09-09	N/A	N/A	Nome Pai Casamento 9	Nome Mãe Casamento 9	Comunhão Parcial	Cartório Genérico Casamento	NGC-0017
+nao_sensivel	casamento	Nome Genérico Casamento 9B	000.000.000-00	1980-09-10	2020-09-09	N/A	N/A	Nome Pai Casamento 9	Nome Mãe Casamento 9	Comunhão Parcial	Cartório Genérico Casamento	NGC-0018
+nao_sensivel	casamento	Nome Genérico Casamento 10A	000.000.000-00	1980-10-10	2020-10-10	N/A	N/A	Nome Pai Casamento 10	Nome Mãe Casamento 10	Comunhão Parcial	Cartório Genérico Casamento	NGC-0019
+nao_sensivel	casamento	Nome Genérico Casamento 10B	000.000.000-00	1980-10-11	2020-10-10	N/A	N/A	Nome Pai Casamento 10	Nome Mãe Casamento 10	Comunhão Parcial	Cartório Genérico Casamento	NGC-0020
+nao_sensivel	casamento	Nome Genérico Casamento 11A	000.000.000-00	1980-11-11	2020-11-11	N/A	N/A	Nome Pai Casamento 11	Nome Mãe Casamento 11	Comunhão Parcial	Cartório Genérico Casamento	NGC-0021
+nao_sensivel	casamento	Nome Genérico Casamento 11B	000.000.000-00	1980-11-12	2020-11-11	N/A	N/A	Nome Pai Casamento 11	Nome Mãe Casamento 11	Comunhão Parcial	Cartório Genérico Casamento	NGC-0022
+nao_sensivel	casamento	Nome Genérico Casamento 12A	000.000.000-00	1980-12-12	2020-12-12	N/A	N/A	Nome Pai Casamento 12	Nome Mãe Casamento 12	Comunhão Parcial	Cartório Genérico Casamento	NGC-0023
+nao_sensivel	casamento	Nome Genérico Casamento 12B	000.000.000-00	1980-12-13	2020-12-12	N/A	N/A	Nome Pai Casamento 12	Nome Mãe Casamento 12	Comunhão Parcial	Cartório Genérico Casamento	NGC-0024
+nao_sensivel	casamento	Nome Genérico Casamento 13A	000.000.000-00	1981-01-13	2020-01-13	N/A	N/A	Nome Pai Casamento 13	Nome Mãe Casamento 13	Comunhão Parcial	Cartório Genérico Casamento	NGC-0025
+nao_sensivel	casamento	Nome Genérico Casamento 13B	000.000.000-00	1981-01-14	2020-01-13	N/A	N/A	Nome Pai Casamento 13	Nome Mãe Casamento 13	Comunhão Parcial	Cartório Genérico Casamento	NGC-0026
+nao_sensivel	casamento	Nome Genérico Casamento 14A	000.000.000-00	1981-02-14	2020-02-14	N/A	N/A	Nome Pai Casamento 14	Nome Mãe Casamento 14	Comunhão Parcial	Cartório Genérico Casamento	NGC-0027
+nao_sensivel	casamento	Nome Genérico Casamento 14B	000.000.000-00	1981-02-15	2020-02-14	N/A	N/A	Nome Pai Casamento 14	Nome Mãe Casamento 14	Comunhão Parcial	Cartório Genérico Casamento	NGC-0028
+nao_sensivel	casamento	Nome Genérico Casamento 15A	000.000.000-00	1981-03-15	2020-03-15	N/A	N/A	Nome Pai Casamento 15	Nome Mãe Casamento 15	Comunhão Parcial	Cartório Genérico Casamento	NGC-0029
+nao_sensivel	casamento	Nome Genérico Casamento 15B	000.000.000-00	1981-03-16	2020-03-15	N/A	N/A	Nome Pai Casamento 15	Nome Mãe Casamento 15	Comunhão Parcial	Cartório Genérico Casamento	NGC-0030
+nao_sensivel	casamento	Nome Genérico Casamento 16A	000.000.000-00	1981-04-16	2020-04-16	N/A	N/A	Nome Pai Casamento 16	Nome Mãe Casamento 16	Comunhão Parcial	Cartório Genérico Casamento	NGC-0031
+nao_sensivel	casamento	Nome Genérico Casamento 16B	000.000.000-00	1981-04-17	2020-04-16	N/A	N/A	Nome Pai Casamento 16	Nome Mãe Casamento 16	Comunhão Parcial	Cartório Genérico Casamento	NGC-0032
+nao_sensivel	casamento	Nome Genérico Casamento 17A	000.000.000-00	1981-05-17	2020-05-17	N/A	N/A	Nome Pai Casamento 17	Nome Mãe Casamento 17	Comunhão Parcial	Cartório Genérico Casamento	NGC-0033
+nao_sensivel	casamento	Nome Genérico Casamento 17B	000.000.000-00	1981-05-18	2020-05-17	N/A	N/A	Nome Pai Casamento 17	Nome Mãe Casamento 17	Comunhão Parcial	Cartório Genérico Casamento	NGC-0034
+nao_sensivel	casamento	Nome Genérico Casamento 18A	000.000.000-00	1981-06-18	2020-06-18	N/A	N/A	Nome Pai Casamento 18	Nome Mãe Casamento 18	Comunhão Parcial	Cartório Genérico Casamento	NGC-0035
+nao_sensivel	casamento	Nome Genérico Casamento 18B	000.000.000-00	1981-06-19	2020-06-18	N/A	N/A	Nome Pai Casamento 18	Nome Mãe Casamento 18	Comunhão Parcial	Cartório Genérico Casamento	NGC-0036
+nao_sensivel	casamento	Nome Genérico Casamento 19A	000.000.000-00	1981-07-19	2020-07-19	N/A	N/A	Nome Pai Casamento 19	Nome Mãe Casamento 19	Comunhão Parcial	Cartório Genérico Casamento	NGC-0037
+nao_sensivel	casamento	Nome Genérico Casamento 19B	000.000.000-00	1981-07-20	2020-07-19	N/A	N/A	Nome Pai Casamento 19	Nome Mãe Casamento 19	Comunhão Parcial	Cartório Genérico Casamento	NGC-0038
+nao_sensivel	casamento	Nome Genérico Casamento 20A	000.000.000-00	1981-08-20	2020-08-20	N/A	N/A	Nome Pai Casamento 20	Nome Mãe Casamento 20	Comunhão Parcial	Cartório Genérico Casamento	NGC-0039
+nao_sensivel	casamento	Nome Genérico Casamento 20B	000.000.000-00	1981-08-21	2020-08-20	N/A	N/A	Nome Pai Casamento 20	Nome Mãe Casamento 20	Comunhão Parcial	Cartório Genérico Casamento	NGC-0040
+nao_sensivel	casamento	Nome Genérico Casamento 21A	000.000.000-00	1981-09-21	2020-09-21	N/A	N/A	Nome Pai Casamento 21	Nome Mãe Casamento 21	Comunhão Parcial	Cartório Genérico Casamento	NGC-0041
+nao_sensivel	casamento	Nome Genérico Casamento 21B	000.000.000-00	1981-09-22	2020-09-21	N/A	N/A	Nome Pai Casamento 21	Nome Mãe Casamento 21	Comunhão Parcial	Cartório Genérico Casamento	NGC-0042
+nao_sensivel	casamento	Nome Genérico Casamento 22A	000.000.000-00	1981-10-22	2020-10-22	N/A	N/A	Nome Pai Casamento 22	Nome Mãe Casamento 22	Comunhão Parcial	Cartório Genérico Casamento	NGC-0043
+nao_sensivel	casamento	Nome Genérico Casamento 22B	000.000.000-00	1981-10-23	2020-10-22	N/A	N/A	Nome Pai Casamento 22	Nome Mãe Casamento 22	Comunhão Parcial	Cartório Genérico Casamento	NGC-0044
+nao_sensivel	casamento	Nome Genérico Casamento 23A	000.000.000-00	1981-11-23	2020-11-23	N/A	N/A	Nome Pai Casamento 23	Nome Mãe Casamento 23	Comunhão Parcial	Cartório Genérico Casamento	NGC-0045
+nao_sensivel	casamento	Nome Genérico Casamento 23B	000.000.000-00	1981-11-24	2020-11-23	N/A	N/A	Nome Pai Casamento 23	Nome Mãe Casamento 23	Comunhão Parcial	Cartório Genérico Casamento	NGC-0046
+nao_sensivel	casamento	Nome Genérico Casamento 24A	000.000.000-00	1981-12-24	2020-12-24	N/A	N/A	Nome Pai Casamento 24	Nome Mãe Casamento 24	Comunhão Parcial	Cartório Genérico Casamento	NGC-0047
+nao_sensivel	casamento	Nome Genérico Casamento 24B	000.000.000-00	1981-12-25	2020-12-24	N/A	N/A	Nome Pai Casamento 24	Nome Mãe Casamento 24	Comunhão Parcial	Cartório Genérico Casamento	NGC-0048
+nao_sensivel	casamento	Nome Genérico Casamento 25A	000.000.000-00	1982-01-25	2020-01-25	N/A	N/A	Nome Pai Casamento 25	Nome Mãe Casamento 25	Comunhão Parcial	Cartório Genérico Casamento	NGC-0049
+nao_sensivel	casamento	Nome Genérico Casamento 25B	000.000.000-00	1982-01-26	2020-01-25	N/A	N/A	Nome Pai Casamento 25	Nome Mãe Casamento 25	Comunhão Parcial	Cartório Genérico Casamento	NGC-0050
+nao_sensivel	obito	Nome Genérico Óbito 1	000.000.000-00	1960-01-01	2020-01-01	N/A	Causa Genérica	Nome Pai Óbito 1	Nome Mãe Óbito 1	N/A	Cartório Genérico Óbito	NGO-0001
+nao_sensivel	obito	Nome Genérico Óbito 2	000.000.000-00	1960-02-02	2020-02-02	N/A	Causa Genérica	Nome Pai Óbito 2	Nome Mãe Óbito 2	N/A	Cartório Genérico Óbito	NGO-0002
+nao_sensivel	obito	Nome Genérico Óbito 3	000.000.000-00	1960-03-03	2020-03-03	N/A	Causa Genérica	Nome Pai Óbito 3	Nome Mãe Óbito 3	N/A	Cartório Genérico Óbito	NGO-0003
+nao_sensivel	obito	Nome Genérico Óbito 4	000.000.000-00	1960-04-04	2020-04-04	N/A	Causa Genérica	Nome Pai Óbito 4	Nome Mãe Óbito 4	N/A	Cartório Genérico Óbito	NGO-0004
+nao_sensivel	obito	Nome Genérico Óbito 5	000.000.000-00	1960-05-05	2020-05-05	N/A	Causa Genérica	Nome Pai Óbito 5	Nome Mãe Óbito 5	N/A	Cartório Genérico Óbito	NGO-0005
+nao_sensivel	obito	Nome Genérico Óbito 6	000.000.000-00	1960-06-06	2020-06-06	N/A	Causa Genérica	Nome Pai Óbito 6	Nome Mãe Óbito 6	N/A	Cartório Genérico Óbito	NGO-0006
+nao_sensivel	obito	Nome Genérico Óbito 7	000.000.000-00	1960-07-07	2020-07-07	N/A	Causa Genérica	Nome Pai Óbito 7	Nome Mãe Óbito 7	N/A	Cartório Genérico Óbito	NGO-0007
+nao_sensivel	obito	Nome Genérico Óbito 8	000.000.000-00	1960-08-08	2020-08-08	N/A	Causa Genérica	Nome Pai Óbito 8	Nome Mãe Óbito 8	N/A	Cartório Genérico Óbito	NGO-0008
+nao_sensivel	obito	Nome Genérico Óbito 9	000.000.000-00	1960-09-09	2020-09-09	N/A	Causa Genérica	Nome Pai Óbito 9	Nome Mãe Óbito 9	N/A	Cartório Genérico Óbito	NGO-0009
+nao_sensivel	obito	Nome Genérico Óbito 10	000.000.000-00	1960-10-10	2020-10-10	N/A	Causa Genérica	Nome Pai Óbito 10	Nome Mãe Óbito 10	N/A	Cartório Genérico Óbito	NGO-0010
+nao_sensivel	obito	Nome Genérico Óbito 11	000.000.000-00	1960-11-11	2020-11-11	N/A	Causa Genérica	Nome Pai Óbito 11	Nome Mãe Óbito 11	N/A	Cartório Genérico Óbito	NGO-0011
+nao_sensivel	obito	Nome Genérico Óbito 12	000.000.000-00	1960-12-12	2020-12-12	N/A	Causa Genérica	Nome Pai Óbito 12	Nome Mãe Óbito 12	N/A	Cartório Genérico Óbito	NGO-0012
+nao_sensivel	obito	Nome Genérico Óbito 13	000.000.000-00	1961-01-13	2020-01-13	N/A	Causa Genérica	Nome Pai Óbito 13	Nome Mãe Óbito 13	N/A	Cartório Genérico Óbito	NGO-0013
+nao_sensivel	obito	Nome Genérico Óbito 14	000.000.000-00	1961-02-14	2020-02-14	N/A	Causa Genérica	Nome Pai Óbito 14	Nome Mãe Óbito 14	N/A	Cartório Genérico Óbito	NGO-0014
+nao_sensivel	obito	Nome Genérico Óbito 15	000.000.000-00	1961-03-15	2020-03-15	N/A	Causa Genérica	Nome Pai Óbito 15	Nome Mãe Óbito 15	N/A	Cartório Genérico Óbito	NGO-0015
+nao_sensivel	obito	Nome Genérico Óbito 16	000.000.000-00	1961-04-16	2020-04-16	N/A	Causa Genérica	Nome Pai Óbito 16	Nome Mãe Óbito 16	N/A	Cartório Genérico Óbito	NGO-0016
+nao_sensivel	obito	Nome Genérico Óbito 17	000.000.000-00	1961-05-17	2020-05-17	N/A	Causa Genérica	Nome Pai Óbito 17	Nome Mãe Óbito 17	N/A	Cartório Genérico Óbito	NGO-0017
+nao_sensivel	obito	Nome Genérico Óbito 18	000.000.000-00	1961-06-18	2020-06-18	N/A	Causa Genérica	Nome Pai Óbito 18	Nome Mãe Óbito 18	N/A	Cartório Genérico Óbito	NGO-0018
+nao_sensivel	obito	Nome Genérico Óbito 19	000.000.000-00	1961-07-19	2020-07-19	N/A	Causa Genérica	Nome Pai Óbito 19	Nome Mãe Óbito 19	N/A	Cartório Genérico Óbito	NGO-0019
+nao_sensivel	obito	Nome Genérico Óbito 20	000.000.000-00	1961-08-20	2020-08-20	N/A	Causa Genérica	Nome Pai Óbito 20	Nome Mãe Óbito 20	N/A	Cartório Genérico Óbito	NGO-0020
+nao_sensivel	obito	Nome Genérico Óbito 21	000.000.000-00	1961-09-21	2020-09-21	N/A	Causa Genérica	Nome Pai Óbito 21	Nome Mãe Óbito 21	N/A	Cartório Genérico Óbito	NGO-0021
+nao_sensivel	obito	Nome Genérico Óbito 22	000.000.000-00	1961-10-22	2020-10-22	N/A	Causa Genérica	Nome Pai Óbito 22	Nome Mãe Óbito 22	N/A	Cartório Genérico Óbito	NGO-0022
+nao_sensivel	obito	Nome Genérico Óbito 23	000.000.000-00	1961-11-23	2020-11-23	N/A	Causa Genérica	Nome Pai Óbito 23	Nome Mãe Óbito 23	N/A	Cartório Genérico Óbito	NGO-0023
+nao_sensivel	obito	Nome Genérico Óbito 24	000.000.000-00	1961-12-24	2020-12-24	N/A	Causa Genérica	Nome Pai Óbito 24	Nome Mãe Óbito 24	N/A	Cartório Genérico Óbito	NGO-0024
+nao_sensivel	obito	Nome Genérico Óbito 25	000.000.000-00	1962-01-25	2020-01-25	N/A	Causa Genérica	Nome Pai Óbito 25	Nome Mãe Óbito 25	N/A	Cartório Genérico Óbito	NGO-0025
+nao_sensivel	obito	Nome Genérico Óbito 26	000.000.000-00	1962-02-26	2020-02-26	N/A	Causa Genérica	Nome Pai Óbito 26	Nome Mãe Óbito 26	N/A	Cartório Genérico Óbito	NGO-0026
+nao_sensivel	obito	Nome Genérico Óbito 27	000.000.000-00	1962-03-27	2020-03-27	N/A	Causa Genérica	Nome Pai Óbito 27	Nome Mãe Óbito 27	N/A	Cartório Genérico Óbito	NGO-0027
+nao_sensivel	obito	Nome Genérico Óbito 28	000.000.000-00	1962-04-28	2020-04-28	N/A	Causa Genérica	Nome Pai Óbito 28	Nome Mãe Óbito 28	N/A	Cartório Genérico Óbito	NGO-0028
+nao_sensivel	obito	Nome Genérico Óbito 29	000.000.000-00	1962-05-29	2020-05-29	N/A	Causa Genérica	Nome Pai Óbito 29	Nome Mãe Óbito 29	N/A	Cartório Genérico Óbito	NGO-0029
+nao_sensivel	obito	Nome Genérico Óbito 30	000.000.000-00	1962-06-02	2020-06-02	N/A	Causa Genérica	Nome Pai Óbito 30	Nome Mãe Óbito 30	N/A	Cartório Genérico Óbito	NGO-0030
+nao_sensivel	obito	Nome Genérico Óbito 31	000.000.000-00	1962-07-03	2020-07-03	N/A	Causa Genérica	Nome Pai Óbito 31	Nome Mãe Óbito 31	N/A	Cartório Genérico Óbito	NGO-0031
+nao_sensivel	obito	Nome Genérico Óbito 32	000.000.000-00	1962-08-04	2020-08-04	N/A	Causa Genérica	Nome Pai Óbito 32	Nome Mãe Óbito 32	N/A	Cartório Genérico Óbito	NGO-0032
+nao_sensivel	obito	Nome Genérico Óbito 33	000.000.000-00	1962-09-05	2020-09-05	N/A	Causa Genérica	Nome Pai Óbito 33	Nome Mãe Óbito 33	N/A	Cartório Genérico Óbito	NGO-0033
+nao_sensivel	obito	Nome Genérico Óbito 34	000.000.000-00	1962-10-06	2020-10-06	N/A	Causa Genérica	Nome Pai Óbito 34	Nome Mãe Óbito 34	N/A	Cartório Genérico Óbito	NGO-0034
+nao_sensivel	obito	Nome Genérico Óbito 35	000.000.000-00	1962-11-07	2020-11-07	N/A	Causa Genérica	Nome Pai Óbito 35	Nome Mãe Óbito 35	N/A	Cartório Genérico Óbito	NGO-0035
+nao_sensivel	obito	Nome Genérico Óbito 36	000.000.000-00	1962-12-08	2020-12-08	N/A	Causa Genérica	Nome Pai Óbito 36	Nome Mãe Óbito 36	N/A	Cartório Genérico Óbito	NGO-0036
+nao_sensivel	obito	Nome Genérico Óbito 37	000.000.000-00	1963-01-09	2020-01-09	N/A	Causa Genérica	Nome Pai Óbito 37	Nome Mãe Óbito 37	N/A	Cartório Genérico Óbito	NGO-0037
+nao_sensivel	obito	Nome Genérico Óbito 38	000.000.000-00	1963-02-10	2020-02-10	N/A	Causa Genérica	Nome Pai Óbito 38	Nome Mãe Óbito 38	N/A	Cartório Genérico Óbito	NGO-0038
+nao_sensivel	obito	Nome Genérico Óbito 39	000.000.000-00	1963-03-11	2020-03-11	N/A	Causa Genérica	Nome Pai Óbito 39	Nome Mãe Óbito 39	N/A	Cartório Genérico Óbito	NGO-0039
+nao_sensivel	obito	Nome Genérico Óbito 40	000.000.000-00	1963-04-12	2020-04-12	N/A	Causa Genérica	Nome Pai Óbito 40	Nome Mãe Óbito 40	N/A	Cartório Genérico Óbito	NGO-0040
+nao_sensivel	obito	Nome Genérico Óbito 41	000.000.000-00	1963-05-13	2020-05-13	N/A	Causa Genérica	Nome Pai Óbito 41	Nome Mãe Óbito 41	N/A	Cartório Genérico Óbito	NGO-0041
+nao_sensivel	obito	Nome Genérico Óbito 42	000.000.000-00	1963-06-14	2020-06-14	N/A	Causa Genérica	Nome Pai Óbito 42	Nome Mãe Óbito 42	N/A	Cartório Genérico Óbito	NGO-0042
+nao_sensivel	obito	Nome Genérico Óbito 43	000.000.000-00	1963-07-15	2020-07-15	N/A	Causa Genérica	Nome Pai Óbito 43	Nome Mãe Óbito 43	N/A	Cartório Genérico Óbito	NGO-0043
+nao_sensivel	obito	Nome Genérico Óbito 44	000.000.000-00	1963-08-16	2020-08-16	N/A	Causa Genérica	Nome Pai Óbito 44	Nome Mãe Óbito 44	N/A	Cartório Genérico Óbito	NGO-0044
+nao_sensivel	obito	Nome Genérico Óbito 45	000.000.000-00	1963-09-17	2020-09-17	N/A	Causa Genérica	Nome Pai Óbito 45	Nome Mãe Óbito 45	N/A	Cartório Genérico Óbito	NGO-0045
+nao_sensivel	obito	Nome Genérico Óbito 46	000.000.000-00	1963-10-18	2020-10-18	N/A	Causa Genérica	Nome Pai Óbito 46	Nome Mãe Óbito 46	N/A	Cartório Genérico Óbito	NGO-0046
+nao_sensivel	obito	Nome Genérico Óbito 47	000.000.000-00	1963-11-19	2020-11-19	N/A	Causa Genérica	Nome Pai Óbito 47	Nome Mãe Óbito 47	N/A	Cartório Genérico Óbito	NGO-0047
+nao_sensivel	obito	Nome Genérico Óbito 48	000.000.000-00	1963-12-20	2020-12-20	N/A	Causa Genérica	Nome Pai Óbito 48	Nome Mãe Óbito 48	N/A	Cartório Genérico Óbito	NGO-0048
+nao_sensivel	obito	Nome Genérico Óbito 49	000.000.000-00	1964-01-21	2020-01-21	N/A	Causa Genérica	Nome Pai Óbito 49	Nome Mãe Óbito 49	N/A	Cartório Genérico Óbito	NGO-0049
+nao_sensivel	obito	Nome Genérico Óbito 50	000.000.000-00	1964-02-22	2020-02-22	N/A	Causa Genérica	Nome Pai Óbito 50	Nome Mãe Óbito 50	N/A	Cartório Genérico Óbito	NGO-0050
